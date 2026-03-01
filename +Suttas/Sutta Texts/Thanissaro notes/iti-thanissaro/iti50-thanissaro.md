@@ -24,7 +24,7 @@ like the fruiting
 
 of the bamboo.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn9-thanissaro]]; [Dhp 164](../Dhp/Ch12.html#dhp164)
+See also: [[mn9-thanissaro]]; [Dhp 164](../Dhp/Ch12.html#dhp164)
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

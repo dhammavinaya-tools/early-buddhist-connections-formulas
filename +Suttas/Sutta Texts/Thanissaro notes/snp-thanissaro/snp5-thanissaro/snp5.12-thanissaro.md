@@ -66,9 +66,9 @@ vv. 1101–1104
 
 Note
 
-1. For Nd II’s discussion of the various meanings of the objects of craving “above, below, across, in between,” see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp5-thanissaro/snp5.4-thanissaro]]. For further discussions of the many places where craving can arise, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn22-thanissaro]] and [[sn35.95-thanissaro]], note 1.
+1. For Nd II’s discussion of the various meanings of the objects of craving “above, below, across, in between,” see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp5-thanissaro/snp5.4-thanissaro]]. For further discussions of the many places where craving can arise, see [[dn22-thanissaro]] and [[sn35.95-thanissaro]], note 1.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn26-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn49-thanissaro]]; [[sn4.19-thanissaro]]; [[sn4.21-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]
+See also: [[mn26-thanissaro]]; [[mn49-thanissaro]]; [[sn4.19-thanissaro]]; [[sn4.21-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

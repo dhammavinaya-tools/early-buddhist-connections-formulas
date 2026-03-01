@@ -37,7 +37,7 @@ Then the thought occurred to Ven. Ānanda, “Here the Blessed One has just reco
 
 3. Ven. Ānanda has answered Mahānāma’s question by noting that the concentration of one in training precedes both the discernment of one in training and the discernment of one whose training is complete, whereas the discernment of one in training has preceded the concentration of one whose training is complete. [↩︎](#^[[an3-thanissaro]].74note03-ref) ^[[an3-thanissaro]].74note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn117-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]]; [[sn35.99-thanissaro]]; [[sn55.33-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]
+See also: [[mn48-thanissaro]]; [[mn117-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]]; [[sn35.99-thanissaro]]; [[sn55.33-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

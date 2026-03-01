@@ -28,7 +28,7 @@ reappears in hell.
 
 Note
 
-1. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn22-thanissaro]] gives the following example of an evil view: “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when indulged in, are not genuine obstructions.” [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn38-thanissaro]] gives another example: “As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on [from birth to birth], not another.”
+1. [[mn22-thanissaro]] gives the following example of an evil view: “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when indulged in, are not genuine obstructions.” [[mn38-thanissaro]] gives another example: “As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on [from birth to birth], not another.”
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

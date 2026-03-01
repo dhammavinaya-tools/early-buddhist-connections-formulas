@@ -138,9 +138,9 @@ vv. 324–330
 
 3. SnA equates “words destructive of the Dhamma” with “animal talk.” See the discussion under Pācittiya 85 in _The Buddhist Monastic Code._ [↩︎](#^snp2-9-03-ref) ^snp2-9-03
 
-4. The heartwood of learning & discernment is release. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]] and 30. [↩︎](#^snp2-9-04-ref) ^snp2-9-04
+4. The heartwood of learning & discernment is release. See [[mn29-thanissaro]] and 30. [↩︎](#^snp2-9-04-ref) ^snp2-9-04
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.151-thanissaro]]; [[an5.202-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.86-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag5-thanissaro]]
+See also: [[mn29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.151-thanissaro]]; [[an5.202-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.86-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

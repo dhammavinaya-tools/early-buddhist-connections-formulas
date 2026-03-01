@@ -330,7 +330,7 @@ vv. 955–975
 
 6. _Ekodi-bhūto._ A quality of concentration attained in the second jhāna. [↩︎](#^snp4-16-06-ref) ^snp4-16-06
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]; Thag 18
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]; Thag 18
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

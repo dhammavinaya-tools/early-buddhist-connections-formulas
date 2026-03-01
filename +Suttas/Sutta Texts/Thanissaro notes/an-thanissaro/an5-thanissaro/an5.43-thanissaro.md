@@ -65,7 +65,7 @@ he’s called _enlightened,_
 
 _wise._
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn126-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn42.6-thanissaro]]
+See also: [[mn126-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn42.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

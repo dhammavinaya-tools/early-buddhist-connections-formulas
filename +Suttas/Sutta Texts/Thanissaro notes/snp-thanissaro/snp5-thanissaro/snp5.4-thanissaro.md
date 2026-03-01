@@ -228,11 +228,11 @@ e) above = feelings of pleasure; below = feelings of pain; across and in between
 
 f) above = the body from the feet on up; below = the body from the crown of the head on down; across and in between = the middle of the body.
 
-4. On unestablished consciousness, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.38-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]], and 22:87. See also the discussion of this topic in _The Paradox of Becoming,_ chapter 7. [↩︎](#^snp5-4-04-ref) ^snp5-4-04
+4. On unestablished consciousness, see [[sn12-21-thanissaro/sn12-thanissaro/sn12.38-thanissaro]], [[sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]], [[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]], and 22:87. See also the discussion of this topic in _The Paradox of Becoming,_ chapter 7. [↩︎](#^snp5-4-04-ref) ^snp5-4-04
 
-5. Becoming and non-becoming (or dis-becoming) are the two most subtle objects of craving that lead on to continued existence—and suffering—in the round of birth and death. See [[ud3.10-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti49-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn49-thanissaro]], note 10. See also, _The Paradox of Becoming._ [↩︎](#^snp5-4-05-ref) ^snp5-4-05
+5. Becoming and non-becoming (or dis-becoming) are the two most subtle objects of craving that lead on to continued existence—and suffering—in the round of birth and death. See [[ud3.10-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti49-thanissaro]], and [[mn49-thanissaro]], note 10. See also, _The Paradox of Becoming._ [↩︎](#^snp5-4-05-ref) ^snp5-4-05
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.77-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.77-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

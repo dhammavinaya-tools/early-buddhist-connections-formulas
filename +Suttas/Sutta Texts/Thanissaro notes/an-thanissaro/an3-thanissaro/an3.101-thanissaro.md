@@ -57,15 +57,15 @@ language: "English"
 
 ### Notes
 
-1. According to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn36-thanissaro]], this means that pleasure can invade this individual’s mind and remain there. [↩︎](#^[[an3-thanissaro]].101note01-ref) ^[[an3-thanissaro]].101note01
+1. According to [[mn36-thanissaro]], this means that pleasure can invade this individual’s mind and remain there. [↩︎](#^[[an3-thanissaro]].101note01-ref) ^[[an3-thanissaro]].101note01
 
-2. Again according to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn36-thanissaro]], this means that pain can invade this individual’s mind and remain there. [↩︎](#^[[an3-thanissaro]].101note02-ref) ^[[an3-thanissaro]].101note02
+2. Again according to [[mn36-thanissaro]], this means that pain can invade this individual’s mind and remain there. [↩︎](#^[[an3-thanissaro]].101note02-ref) ^[[an3-thanissaro]].101note02
 
 3. Immeasurable concentration. See [[an3.65-thanissaro]] _(PTS—[[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.66-thanissaro]])._ [↩︎](#^[[an3-thanissaro]].101note03-ref) ^[[an3-thanissaro]].101note03
 
 4. For a discussion of this discourse in the general context of the Buddha’s teaching on kamma (karma), see _The Wings to Awakening,_ Section I/B. [↩︎](#^[[an3-thanissaro]].101note04-ref) ^[[an3-thanissaro]].101note04
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn86-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn136-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn20-thanissaro/sn20.4-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.79-thanissaro]]; [[an11.16-thanissaro]]
+See also: [[mn86-thanissaro]]; [[mn136-thanissaro]]; [[sn12-21-thanissaro/sn20-thanissaro/sn20.4-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.79-thanissaro]]; [[an11.16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

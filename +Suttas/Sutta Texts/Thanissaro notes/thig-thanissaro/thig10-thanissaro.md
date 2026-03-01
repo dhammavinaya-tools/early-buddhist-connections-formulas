@@ -136,7 +136,7 @@ have said this.
 
 ### Notes
 
-1. According to the Commentary, this was the Buddha’s message to Kīsā Gotamī. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn13-thanissaro/sn13.8-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]. [↩︎](#^thig10note01-ref) ^thig10note01
+1. According to the Commentary, this was the Buddha’s message to Kīsā Gotamī. See [[sn12-21-thanissaro/sn13-thanissaro/sn13.8-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]. [↩︎](#^thig10note01-ref) ^thig10note01
 
 2. Reading _passiṁ taṁ susāna-majjhe_ with the Thai edition. [↩︎](#^thig10note02-ref) ^thig10note02
 

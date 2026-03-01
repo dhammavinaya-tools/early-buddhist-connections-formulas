@@ -25,7 +25,7 @@ language: "English"
 
 “These three persons, monks, are one’s great benefactors. And I tell you: One has no other benefactor greater than these three. And I tell you, too, that it’s not easy for one to repay these three benefactors by bowing down, by rising up in greeting, by raising one’s hands palm-to-palm in front of the heart, by performing services in line with seniority, or by presenting them with robes, almsfood, lodging, or medicinal requisites used for curing the sick.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]]; [[sn56.11-thanissaro]]; [[an2.31-thanissaro]]; [[an3.115-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]]; [[sn56.11-thanissaro]]; [[an2.31-thanissaro]]; [[an3.115-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

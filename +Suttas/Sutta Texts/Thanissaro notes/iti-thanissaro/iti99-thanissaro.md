@@ -50,7 +50,7 @@ Note
 
 1. In the brahmanical religion, a “three-knowledge man” was one who had memorized the three Vedas. This verse takes the brahmanical term and gives it a new, Buddhist meaning.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
+See also: [[mn4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

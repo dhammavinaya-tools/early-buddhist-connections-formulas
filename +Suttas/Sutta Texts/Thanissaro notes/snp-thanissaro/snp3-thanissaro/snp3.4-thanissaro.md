@@ -526,7 +526,7 @@ SnA suggests that the Buddha’s question about this verse surprises Sundarika, 
 
 6. In [[snp7.9-thanissaro]], the Buddha’s initial response to Sundarika begins here. [↩︎](#^snp3-4-06-ref) ^snp3-4-06
 
-7. SnA explains this analogy by saying that it doesn’t matter what kind of wood is used to make a fire, for in each case the fire is equally hot and bright. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn93-thanissaro]]. [↩︎](#^snp3-4-07-ref) ^snp3-4-07
+7. SnA explains this analogy by saying that it doesn’t matter what kind of wood is used to make a fire, for in each case the fire is equally hot and bright. See [[mn93-thanissaro]]. [↩︎](#^snp3-4-07-ref) ^snp3-4-07
 
 8. In [[snp7.9-thanissaro]], the initial exchange between the Buddha and Sundarika ends here. Sundarika then offers the sacrificial cake to the Buddha, who refuses it with the passage beginning with the line marked by footnote 18. Then, as in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.4-thanissaro]], he tells Sundarika to throw away the offering, which sizzles in the water into which it is thrown. Shocked, Sundarika returns to the Buddha, who teaches him five more verses of Dhamma. [↩︎](#^snp3-4-08-ref) ^snp3-4-08
 
@@ -594,13 +594,13 @@ After hearing these verses, Sundarika asks for Acceptance into the Saṅgha, and
 
 11. According to SnA, the field and site of stress is a reference to defilements. It could also be a reference to the objects of clinging that can form a basis for stress: such things as the aggregates, sense media, and properties _(dhātu)._ [↩︎](#^snp3-4-11-ref) ^snp3-4-11
 
-12. According to SnA, “seclusion” here means unbinding. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]. [↩︎](#^snp3-4-12-ref) ^snp3-4-12
+12. According to SnA, “seclusion” here means unbinding. See [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]] and [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]. [↩︎](#^snp3-4-12-ref) ^snp3-4-12
 
-13. Supports/mental objects = _ārammaṇā._ See [[ud8.1-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^snp3-4-13-ref) ^snp3-4-13
+13. Supports/mental objects = _ārammaṇā._ See [[ud8.1-thanissaro]], [[sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]], and [[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^snp3-4-13-ref) ^snp3-4-13
 
 14. On unbinding as the end of phenomena, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.6-thanissaro]]. [↩︎](#^snp3-4-14-ref) ^snp3-4-14
 
-15. For examples of seeing self by means of self (or self by means of not-self, or not-self by means of self), see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]]. [↩︎](#^snp3-4-15-ref) ^snp3-4-15
+15. For examples of seeing self by means of self (or self by means of not-self, or not-self by means of self), see [[mn2-thanissaro]]. [↩︎](#^snp3-4-15-ref) ^snp3-4-15
 
 16. This verse contains a play on words, in that _attā_ can mean both “self” and “mind,” and it is used in both senses here. [↩︎](#^snp3-4-16-ref) ^snp3-4-16
 

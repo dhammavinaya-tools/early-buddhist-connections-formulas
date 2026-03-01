@@ -467,11 +467,11 @@ Apparently there were some discrepancies in the original discourse that subseque
 
 6. This verse is identical with [[dhp147-thanissaro]]. [↩︎](#^mn82note06-ref) ^mn82note06
 
-7. For the meaning of the word “world” in this discourse, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]. [↩︎](#^mn82note07-ref) ^mn82note07
+7. For the meaning of the word “world” in this discourse, see [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]. [↩︎](#^mn82note07-ref) ^mn82note07
 
 8. In ancient Indian medicine, a variety of illnesses—such as indigestion, sharp pains running through the body, etc.—were said to be caused by an imbalance of the wind-property _(vāyo-dhātu)_ in the body. [↩︎](#^mn82note08-ref) ^mn82note08
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn14-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn54-thanissaro]]; [[sn3.25-thanissaro]]; [[sn4.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.6-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
+See also: [[mn13-thanissaro]]; [[mn14-thanissaro]]; [[mn54-thanissaro]]; [[sn3.25-thanissaro]]; [[sn4.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.6-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

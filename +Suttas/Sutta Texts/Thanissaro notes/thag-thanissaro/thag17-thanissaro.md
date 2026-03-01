@@ -380,17 +380,17 @@ everywhere.[13](#^thag17-2note13) ^thag17-2note13-ref
 
 1. Reading _yatasaṅkappajjhāyi_ with the Burmese edition. The Thai edition has _yathāsaṅkappacariyāya,_ “in line with the conduct of his resolves.” [↩︎](#^thag17-2note01-ref) ^thag17-2note01
 
-2. _Papañca._ On the topic of objectification, see the introduction to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn18-thanissaro]]. [↩︎](#^thag17-2note02-ref) ^thag17-2note02
+2. _Papañca._ On the topic of objectification, see the introduction to [[mn18-thanissaro]]. [↩︎](#^thag17-2note02-ref) ^thag17-2note02
 
 3. These two verses = [[dhp98.99-thanissaro]]. [↩︎](#^thag17-2note03-ref) ^thag17-2note03
 
 4. These two verses = [[dhp76.77-thanissaro]]. [↩︎](#^thag17-2note04-ref) ^thag17-2note04
 
-5. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn74-thanissaro]]. [↩︎](#^thag17-2note05-ref) ^thag17-2note05
+5. See [[mn74-thanissaro]]. [↩︎](#^thag17-2note05-ref) ^thag17-2note05
 
 6. Upatissa was Ven. Sāriputta’s personal name. [↩︎](#^thag17-2note06-ref) ^thag17-2note06
 
-7. Noble silence is the second jhāna. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn21-thanissaro/sn21.1-thanissaro]]. [↩︎](#^thag17-2note07-ref) ^thag17-2note07
+7. Noble silence is the second jhāna. See [[sn12-21-thanissaro/sn21-thanissaro/sn21.1-thanissaro]]. [↩︎](#^thag17-2note07-ref) ^thag17-2note07
 
 8. In [[ud3.4-thanissaro]], the Buddha uses this verse to describe Ven. Sāriputta. [↩︎](#^thag17-2note08-ref) ^thag17-2note08
 
@@ -398,7 +398,7 @@ everywhere.[13](#^thag17-2note13) ^thag17-2note13-ref
 
 10. This verse = [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]. [↩︎](#^thag17-2note10-ref) ^thag17-2note10
 
-11. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn141-thanissaro]]. [↩︎](#^thag17-2note11-ref) ^thag17-2note11
+11. See [[mn141-thanissaro]]. [↩︎](#^thag17-2note11-ref) ^thag17-2note11
 
 12. The reference to the perfection _(pāramita)_ of discernment suggests that this verse, at least, is a later composition. [↩︎](#^thag17-2note12-ref) ^thag17-2note12
 

@@ -12,7 +12,7 @@ language: "English"
 
 # 1:10  Āḷavaka
 
-_(This sutta is identical with [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn10-thanissaro/sn10.12-thanissaro]].)_
+_(This sutta is identical with [[sn1-11-thanissaro/sn10-thanissaro/sn10.12-thanissaro]].)_
 
 I have heard that on one occasion the Blessed One was staying at Āḷavī in the haunt of the Āḷavaka yakkha. Then the Āḷavaka yakkha went to the Blessed One and on arrival said to him: “Get out, contemplative!”
 
@@ -198,7 +198,7 @@ Note
 
 1. This is apparently a reference to the concept of “savor” _(rasa)_ in Indian aesthetic theory. For more on this topic, see the Introduction to this translation.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.5-thanissaro]]
+See also: [[mn35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

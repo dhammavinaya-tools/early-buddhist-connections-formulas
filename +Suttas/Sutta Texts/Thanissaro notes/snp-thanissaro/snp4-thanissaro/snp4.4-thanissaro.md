@@ -162,7 +162,7 @@ vv. 788–795
 
 ### Notes
 
-1. An ancient Indian belief, dating back to the Vedas, was that the sight of certain things or beings was believed to purify. Thus “in connection with what’s seen” here means both that purity is brought about by means of seeing such a sight, and that one’s purity is measured in terms of having such a sight. This belief survives today in the practice of _darshan._ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]], note 44. [↩︎](#^snp4-4-01-ref) ^snp4-4-01
+1. An ancient Indian belief, dating back to the Vedas, was that the sight of certain things or beings was believed to purify. Thus “in connection with what’s seen” here means both that purity is brought about by means of seeing such a sight, and that one’s purity is measured in terms of having such a sight. This belief survives today in the practice of _darshan._ See [[dn16-thanissaro]], note 44. [↩︎](#^snp4-4-01-ref) ^snp4-4-01
 
 2. In other words, if purity were simply a matter of seeing or knowing something, a person could be pure in this sense and yet still have acquisitions (= defilements), which would not be true purity. On the use of the phrase, “in connection with,” here, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.9-thanissaro]]. [↩︎](#^snp4-4-02-ref) ^snp4-4-02
 
@@ -172,7 +172,7 @@ vv. 788–795
 
 5. Nd I: Leaving one teacher and going to another; leaving one teaching and going to another. This phrase may also refer to the mind’s tendency to leave one craving to go to another. [↩︎](#^snp4-4-05-ref) ^snp4-4-05
 
-6. For a discussion of unperturbed states of concentration, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn106-thanissaro]]. [↩︎](#^snp4-4-06-ref) ^snp4-4-06
+6. For a discussion of unperturbed states of concentration, see [[mn106-thanissaro]]. [↩︎](#^snp4-4-06-ref) ^snp4-4-06
 
 7. “Like a monkey releasing a branch to seize at another”—an interesting example of a whole phrase that functions as a lamp, i.e., modifying both the phrase before it and the phrase after it. [↩︎](#^snp4-4-07-ref) ^snp4-4-07
 
@@ -188,7 +188,7 @@ vv. 788–795
 
 13. Nd I: “Passion” = sensuality; “dispassion” = the jhāna states that bring about dispassion for sensuality. However, this may also be a reference to the fact that dispassion is the highest dhamma, whether fabricated or unfabricated ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti90-thanissaro]]), and yet the arahant is described in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.6-thanissaro]] as having transcended all phenomena. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.137-thanissaro]], note 1 and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.6-thanissaro]]. [↩︎](#^snp4-4-13-ref) ^snp4-4-13
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.170-thanissaro]]
+See also: [[mn61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.170-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

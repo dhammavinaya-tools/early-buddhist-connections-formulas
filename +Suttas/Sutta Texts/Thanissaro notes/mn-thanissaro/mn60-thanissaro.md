@@ -17,7 +17,7 @@ language: "English"
 
 ## Introduction
 
-_The Buddha often likened himself to a doctor, offering a treatment for the sufferings of the heart. Unlike ordinary doctors, however, he could not show newcomers the state of health—nibbāna—that his teaching was supposed to produce. If they followed his teaching, they would see it for themselves. But until they followed his teaching, he could offer them no empirical proof that nibbāna was a genuine possibility. As he stated in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn27-thanissaro]], the proof that he was awakened—and that awakening was a good thing—came with one’s first taste of the deathless, at the first level of awakening, called stream-entry. However, stream-entry could be attained only through a serious commitment to the practice. Thus he had to provide other, non-empirical, means of persuasion to induce his listeners to give his teachings a serious try._
+_The Buddha often likened himself to a doctor, offering a treatment for the sufferings of the heart. Unlike ordinary doctors, however, he could not show newcomers the state of health—nibbāna—that his teaching was supposed to produce. If they followed his teaching, they would see it for themselves. But until they followed his teaching, he could offer them no empirical proof that nibbāna was a genuine possibility. As he stated in [[mn27-thanissaro]], the proof that he was awakened—and that awakening was a good thing—came with one’s first taste of the deathless, at the first level of awakening, called stream-entry. However, stream-entry could be attained only through a serious commitment to the practice. Thus he had to provide other, non-empirical, means of persuasion to induce his listeners to give his teachings a serious try._
 
 _One of these means was the pragmatic argument, which differs from empirical arguments as follows. An empirical argument presents facts that logically imply that A must be true or false. A pragmatic argument focuses not on the facts related to A, but on the behavior that can be expected from a person who believes or rejects A. The Buddha’s main pragmatic argument is that if one accepted his teachings, one would be likely to pay careful attention to one’s actions, so as to do no harm. This in & of itself is a worthy activity regardless of whether the rest of the path was true. When applying this argument to the issue of rebirth and karmic results, the Buddha sometimes coupled it with a second pragmatic argument that resembles Pascal’s wager: If one practices the Dhamma, one leads a blameless life in the here-and-now. Even if the afterlife and karmic results do not exist, one has not lost the wager, for the blamelessness of one’s life is a reward in & of itself. If there is an afterlife with karmic results, then one has won a double reward: the blamelessness of one’s life here and now, and the good rewards of one’s actions in the afterlife. These two pragmatic arguments form the central message of this sutta._
 
@@ -247,13 +247,13 @@ When this was said, the brahman householders of Sāla said, “Magnificent, mast
 
 ### Notes
 
-1. This was the view of Ajita Kesakambalin. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]. [↩︎](#^mn60note01-ref) ^mn60note01
+1. This was the view of Ajita Kesakambalin. See [[dn2-thanissaro]]. [↩︎](#^mn60note01-ref) ^mn60note01
 
 2. In this context—where that actual truth or falseness of the doctrine is not being addressed—“wrong view” would have to mean a view that leads a person to engage in bad conduct in body, speech, or mind. [↩︎](#^mn60note02-ref) ^mn60note02
 
-3. This was the view of Pūraṇa Kassapa. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]. [↩︎](#^mn60note03-ref) ^mn60note03
+3. This was the view of Pūraṇa Kassapa. See [[dn2-thanissaro]]. [↩︎](#^mn60note03-ref) ^mn60note03
 
-4. This was the view of Makkhali Gosāla. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]. [↩︎](#^mn60note04-ref) ^mn60note04
+4. This was the view of Makkhali Gosāla. See [[dn2-thanissaro]]. [↩︎](#^mn60note04-ref) ^mn60note04
 
 5. The Burmese edition of the Canon here adds, “a slaughterer of cows.” [↩︎](#^mn60note05-ref) ^mn60note05
 
@@ -261,7 +261,7 @@ When this was said, the brahman householders of Sāla said, “Magnificent, mast
 
 7. The PTS and Sinhalese editions omit the sentence, “Let so many horses be slaughtered for the sacrifice.” [↩︎](#^mn60note07-ref) ^mn60note07
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]
+See also: [[mn41-thanissaro]]; [[mn95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

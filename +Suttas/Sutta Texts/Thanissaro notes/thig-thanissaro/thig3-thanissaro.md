@@ -40,7 +40,7 @@ of darkness.
 
 Note
 
-1. On the aggregates (khandha), see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.79-thanissaro]]; on the sense media (āyatana), [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]]; on the properties (dhātu), [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]. On the relationships among these frameworks for analyzing experience, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn28-thanissaro]].
+1. On the aggregates (khandha), see [[sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]] and [[sn22-34-thanissaro/sn22-thanissaro/sn22.79-thanissaro]]; on the sense media (āyatana), [[sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]]; on the properties (dhātu), [[mn140-thanissaro]]. On the relationships among these frameworks for analyzing experience, see [[mn28-thanissaro]].
 
 ## Thig3.4  Dantikā & the Elephant
 

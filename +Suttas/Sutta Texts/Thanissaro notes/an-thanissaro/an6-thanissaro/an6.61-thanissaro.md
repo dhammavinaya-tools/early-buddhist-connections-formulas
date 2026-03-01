@@ -97,9 +97,9 @@ here has gone past
 
 the seamstress.
 
-2. On the cessation of contact as unbinding, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]. [↩︎](#^[[an6-thanissaro]].61note02-ref) ^[[an6-thanissaro]].61note02
+2. On the cessation of contact as unbinding, see [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]. [↩︎](#^[[an6-thanissaro]].61note02-ref) ^[[an6-thanissaro]].61note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

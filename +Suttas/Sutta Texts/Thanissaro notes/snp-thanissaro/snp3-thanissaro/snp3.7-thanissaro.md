@@ -338,9 +338,9 @@ The Dhamma-wheel is also a wheel in another sense. In ancient Indian texts, a �
 
 4. An epithet for the Indian subcontinent. [↩︎](#^snp3-7-04-ref) ^snp3-7-04
 
-5. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn141-thanissaro]]. MLDB, in its translation of this verse in MN 92, mistakenly says that Sāriputta _will_ keep the Dhamma wheel rolling; GD mistakenly identifies him as the Buddha’s successor, rather than as the disciple right below him. Translations of this sort have led at least one scholar to cite this verse as a late addition to the Canon, in conflict with [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn108-thanissaro]], which clearly states that the Buddha left no successor, and with [[sn47.13-thanissaro]], which notes that Sāriputta passed away before the Buddha. However, when the verse is correctly translated, there is no conflict. [↩︎](#^snp3-7-05-ref) ^snp3-7-05
+5. See [[mn141-thanissaro]]. MLDB, in its translation of this verse in MN 92, mistakenly says that Sāriputta _will_ keep the Dhamma wheel rolling; GD mistakenly identifies him as the Buddha’s successor, rather than as the disciple right below him. Translations of this sort have led at least one scholar to cite this verse as a late addition to the Canon, in conflict with [[mn108-thanissaro]], which clearly states that the Buddha left no successor, and with [[sn47.13-thanissaro]], which notes that Sāriputta passed away before the Buddha. However, when the verse is correctly translated, there is no conflict. [↩︎](#^snp3-7-05-ref) ^snp3-7-05
 
-6. Three of the four duties with regard to the four noble truths. See [[sn56.11-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn149-thanissaro]]. [↩︎](#^snp3-7-06-ref) ^snp3-7-06
+6. Three of the four duties with regard to the four noble truths. See [[sn56.11-thanissaro]] and [[mn149-thanissaro]]. [↩︎](#^snp3-7-06-ref) ^snp3-7-06
 
 7. Sela, despite his newfound confidence in the Buddha, has not yet abandoned his racism. In [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.85-thanissaro]], however, the Buddha redefines the brahmanical concept of dark birth in such a way that is based on kamma rather than race. [↩︎](#^snp3-7-07-ref) ^snp3-7-07
 

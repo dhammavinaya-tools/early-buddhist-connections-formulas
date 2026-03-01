@@ -14,7 +14,8 @@ contribution:
 > ![[Suttas.base#vin-index]]
 
 - [[BNI-PJ]] Parajika - Expulsion
-- [[BNI-NP ]]Nissaggiya Pacittiya - Relinquish with confession
+- [[BNI-SS]] Saṅghādisesa - Entailing an initial and subsequent meeting of the Saṅgha
+- [[BNI-NP]]Nissaggiya Pacittiya - Relinquish with confession
 - [[BNI-PC]] - Pacittiya - Confession
 - [[BNI-PD1-8]] Patidesaniya - Acknowledgement
 - [[BNI-SK]] Sekhiya - Training

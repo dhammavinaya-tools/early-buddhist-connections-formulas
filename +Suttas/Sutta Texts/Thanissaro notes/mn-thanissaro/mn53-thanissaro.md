@@ -113,7 +113,7 @@ That is what Ven. Ānanda said, and the Teacher approved. Gratified, the Kapilav
 
 5. At this point, one becomes an _asekha,_ one no longer in training because one’s training is complete. In other words, one is an arahant. [↩︎](#^mn53note05-ref) ^mn53note05
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn48.53-thanissaro]]; [[sn55.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn48.53-thanissaro]]; [[sn55.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

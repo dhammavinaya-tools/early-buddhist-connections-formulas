@@ -242,7 +242,7 @@ vv. 574–593
 
 ### Notes
 
-1. See the verse at the end of [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]], part III. [↩︎](#^snp3-8-01-ref) ^snp3-8-01
+1. See the verse at the end of [[dn16-thanissaro]], part III. [↩︎](#^snp3-8-01-ref) ^snp3-8-01
 
 2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]. [↩︎](#^snp3-8-02-ref) ^snp3-8-02
 
@@ -282,7 +282,7 @@ Seeking your own happiness,
 
 you should pull out your own arrow.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn82-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn87-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn21-thanissaro/sn21.2-thanissaro]]; [[sn36.6-thanissaro]]; [[sn47.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
+See also: [[mn82-thanissaro]]; [[mn87-thanissaro]]; [[sn12-21-thanissaro/sn21-thanissaro/sn21.2-thanissaro]]; [[sn36.6-thanissaro]]; [[sn47.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

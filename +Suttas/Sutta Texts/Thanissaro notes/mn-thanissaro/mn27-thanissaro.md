@@ -183,7 +183,7 @@ Thus, as with the suttas in [[an6-thanissaro]], _niṭṭhaṅgato_ here means s
 
 For more on word play in the Canon, see the introduction to [[sn4-thanissaro]].
 
-See also: [[an3.65-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn95-thanissaro]]
+See also: [[an3.65-thanissaro]]; [[mn70-thanissaro]]; [[mn95-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

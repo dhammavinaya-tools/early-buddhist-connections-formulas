@@ -163,7 +163,7 @@ So Saccaka the Nigaṇṭha, delighting in & approving of the Blessed One’s wo
 
 ### Notes
 
-1. _Acelaka,_ sometimes translated as “naked.” However, the description of _acelaka_ ascetics in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn45-thanissaro]] shows that they might wear garments made out of items other than cloth, such as tree bark, antelope hide, strips of antelope hide, kusa-grass garments, bark garments, wood-shaving garments, head-hair garments, animal wool, or owl’s wings. [↩︎](#^mn36note01-ref) ^mn36note01
+1. _Acelaka,_ sometimes translated as “naked.” However, the description of _acelaka_ ascetics in [[mn45-thanissaro]] shows that they might wear garments made out of items other than cloth, such as tree bark, antelope hide, strips of antelope hide, kusa-grass garments, bark garments, wood-shaving garments, head-hair garments, animal wool, or owl’s wings. [↩︎](#^mn36note01-ref) ^mn36note01
 
 2. In other words, Saccaka has been impolite not only in asking challenging personal questions about the Buddha, but also excessively familiar in claiming to know about the Buddha’s personal attainments, even though his claim sounds like praise. For other cases in which what sounds like praise is criticized for being presumptuous, see [[mn127-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.61-thanissaro]] ([[an3.60-thanissaro]] in the PTS numbering), and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.35-thanissaro]]. [↩︎](#^mn36note02-ref) ^mn36note02
 
@@ -171,7 +171,7 @@ So Saccaka the Nigaṇṭha, delighting in & approving of the Blessed One’s wo
 
 4. The suttas do not record what happened to Saccaka after this conversation. The Commentary claims that he was reborn many years later in Sri Lanka, where he became an arahant. [↩︎](#^mn36note04-ref) ^mn36note04
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn26-thanissaro]]; [[sn36.7-thanissaro]]; [[sn52.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[an4.252-thanissaro]]
+See also: [[mn4-thanissaro]]; [[mn19-thanissaro]]; [[mn26-thanissaro]]; [[sn36.7-thanissaro]]; [[sn52.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[an4.252-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

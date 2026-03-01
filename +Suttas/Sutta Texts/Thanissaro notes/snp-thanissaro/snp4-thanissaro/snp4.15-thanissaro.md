@@ -280,7 +280,7 @@ vv. 935–954
 
 1. Nd I: The rod of violence takes three forms: physical violence (the three forms of bodily misconduct), verbal violence (the four forms of verbal misconduct), and mental violence (the three forms of mental misconduct). See AN 10:176 and [Dhp 129–142](../Dhp/Ch10.html#dhp129). [↩︎](#^snp4-15-01-ref) ^snp4-15-01
 
-2. Nd I: “One doesn’t run” to any of the destinations of rebirth; “one doesn’t sink” into any of the four floods of sensuality, views, becoming, and ignorance. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]], [[sn45.171-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]. [↩︎](#^snp4-15-02-ref) ^snp4-15-02
+2. Nd I: “One doesn’t run” to any of the destinations of rebirth; “one doesn’t sink” into any of the four floods of sensuality, views, becoming, and ignorance. See [[sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]], [[sn45.171-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]. [↩︎](#^snp4-15-02-ref) ^snp4-15-02
 
 3. This phrase, a kind of stage direction, seems to indicate that this poem had a ritual use, as part of a ceremony for giving the precepts. [↩︎](#^snp4-15-03-ref) ^snp4-15-03
 

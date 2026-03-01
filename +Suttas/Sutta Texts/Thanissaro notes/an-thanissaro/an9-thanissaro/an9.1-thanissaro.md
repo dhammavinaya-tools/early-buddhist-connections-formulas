@@ -47,7 +47,7 @@ Note
 
 1. The five mental faculties. See [[sn48.10-thanissaro]].
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn118-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn119-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]]; [[sn45.2-thanissaro]]; [[ud4.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti76-thanissaro]]
+See also: [[mn118-thanissaro]]; [[mn119-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]]; [[sn45.2-thanissaro]]; [[ud4.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti76-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -70,7 +70,7 @@ See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8
 
 ## Thag6.12  Brahmadatta
 
-_This poem repeats a poem attributed to the Buddha in [[sn7.2-thanissaro]]. The second and third stanzas also appear in a poem attributed to Sakka the deva-king in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn11-thanissaro/sn11.5-thanissaro]]._
+_This poem repeats a poem attributed to the Buddha in [[sn7.2-thanissaro]]. The second and third stanzas also appear in a poem attributed to Sakka the deva-king in [[sn1-11-thanissaro/sn11-thanissaro/sn11.5-thanissaro]]._
 
 Whence is there anger
 
@@ -134,13 +134,13 @@ eating grain.[3](#^thag6-12note03) ^thag6-12note03-ref
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn21-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn28-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
+1. See [[mn21-thanissaro]] and [[mn28-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^thag6-5note02-ref) ^thag6-5note02
+2. See [[sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^thag6-5note02-ref) ^thag6-5note02
 
-3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn19-thanissaro]]. [↩︎](#^thag6-12note03-ref) ^thag6-12note03
+3. See [[mn19-thanissaro]]. [↩︎](#^thag6-12note03-ref) ^thag6-12note03
 
-See also: [[sn7.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn11-thanissaro/sn11.5-thanissaro]]
+See also: [[sn7.2-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.5-thanissaro]]
 
 ## Thag6.13  Sirimaṇḍa
 
@@ -206,7 +206,7 @@ Note
 
 1. This verse is identical with the verse in [[ud5.5-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn82-thanissaro]]; [[sn3.25-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]
+See also: [[mn82-thanissaro]]; [[sn3.25-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]
 
 ## Thag6.2  Tekicchakāni
 
@@ -274,7 +274,7 @@ Note
 
 1. Concentration based on immeasurable goodwill, compassion, empathetic joy, and equanimity. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]] and [[sn42.8-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn26-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.16-thanissaro]]
+See also: [[dn26-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.16-thanissaro]]
 
 ## Thag6.3  Mahānāga
 
@@ -404,7 +404,7 @@ on your own.
 
 2. See [[dhp315-thanissaro]]. [↩︎](#^thag6-5note02-ref) ^thag6-5note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn63-thanissaro]]
+See also: [[mn63-thanissaro]]
 
 ## Thag6.6  Sappadāsa
 

@@ -189,7 +189,7 @@ Then Māgaṇḍiya the wanderer received the going forth & the acceptance in th
 
 ### Notes
 
-1. The same town where the events recounted in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn22-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn10-thanissaro]] took place. [↩︎](#^mn75note01-ref) ^mn75note01
+1. The same town where the events recounted in [[dn15-thanissaro]], [[dn22-thanissaro]], and [[mn10-thanissaro]] took place. [↩︎](#^mn75note01-ref) ^mn75note01
 
 2. “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear... aromas cognizable via the nose... flavors cognizable via the tongue... tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire. But these are not sensuality. They are called strings of sensuality in the discipline of the noble ones. [↩︎](#^mn75note02-ref) ^mn75note02
 
@@ -209,7 +209,7 @@ the enlightened
 
 subdue their desire. _— [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]_
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn14-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn105-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn125-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.1-thanissaro]]; [[dhp203-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
+See also: [[mn13-thanissaro]]; [[mn14-thanissaro]]; [[mn105-thanissaro]]; [[mn125-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.1-thanissaro]]; [[dhp203-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

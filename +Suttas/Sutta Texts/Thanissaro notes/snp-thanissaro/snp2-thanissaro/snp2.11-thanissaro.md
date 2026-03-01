@@ -96,11 +96,11 @@ vv. 335–342
 
 1. _Ek’agga,_ reading _agga_ in the sense of “gathering place.” [↩︎](#^snp2-11-01-ref) ^snp2-11-01
 
-2. On the themeless concentration, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]] and [[sn41.7-thanissaro]]. [↩︎](#^snp2-11-02-ref) ^snp2-11-02
+2. On the themeless concentration, see [[mn121-thanissaro]] and [[sn41.7-thanissaro]]. [↩︎](#^snp2-11-02-ref) ^snp2-11-02
 
 3. At AN 1:148 (1:209) the Buddha cites Ven. Rāhula, his son, as being foremost among the monks in his desire for training. [↩︎](#^snp2-11-03-ref) ^snp2-11-03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn147-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag4-thanissaro]]
+See also: [[mn61-thanissaro]]; [[mn62-thanissaro]]; [[mn147-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag4-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

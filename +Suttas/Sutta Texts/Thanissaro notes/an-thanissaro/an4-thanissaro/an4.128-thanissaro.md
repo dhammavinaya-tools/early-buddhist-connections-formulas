@@ -31,7 +31,7 @@ Note
 
 1. Reading _andhabhūtā_ with the Thai and PTS editions. The Burmese and Sri Lankan editions read _aṇḍabhūtā,_ “become like an egg.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn123-thanissaro]]; [[sn6.1-thanissaro]]
+See also: [[mn123-thanissaro]]; [[sn6.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

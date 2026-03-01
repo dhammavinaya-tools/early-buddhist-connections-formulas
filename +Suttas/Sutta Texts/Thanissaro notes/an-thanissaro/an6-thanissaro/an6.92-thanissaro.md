@@ -25,11 +25,11 @@ language: "English"
 
 1. Consummate in view, _diṭṭhi-sampanna,_ is an epithet for a person who has attained stream-entry. [↩︎](#^[[an6-thanissaro]].92note01-ref) ^[[an6-thanissaro]].92note01
 
-2. According to the Commentary, this means that the stream-enterer cannot intentionally break any of the five precepts or adopt any of the 62 wrong views listed in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn1-thanissaro]]. [↩︎](#^[[an6-thanissaro]].92note02-ref) ^[[an6-thanissaro]].92note02
+2. According to the Commentary, this means that the stream-enterer cannot intentionally break any of the five precepts or adopt any of the 62 wrong views listed in [[dn1-thanissaro]]. [↩︎](#^[[an6-thanissaro]].92note02-ref) ^[[an6-thanissaro]].92note02
 
 3. In other words, the stream-enterer has, at most, no more than seven future births before gaining full awakening. [↩︎](#^[[an6-thanissaro]].92note03-ref) ^[[an6-thanissaro]].92note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.31-thanissaro]]; [[an7.56-thanissaro]]
+See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.31-thanissaro]]; [[an7.56-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

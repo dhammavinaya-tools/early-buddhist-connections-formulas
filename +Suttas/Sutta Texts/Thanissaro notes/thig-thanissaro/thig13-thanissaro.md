@@ -224,7 +224,7 @@ doesn’t change.
 
 3. Reading _thevikīva_ with the Burmese and Sinhalese editions. [↩︎](#^thig13-5note03-ref) ^thig13-5note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]
+See also: [[dn16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]
 
 ## Thig13.2  Rohiṇī
 
@@ -496,7 +496,7 @@ washed clean.
 
 Note
 
-1. The three unskillful roots are greed, aversion, and delusion. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn9-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]. [↩︎](#^thig13-5note01-ref) ^thig13-5note01
+1. The three unskillful roots are greed, aversion, and delusion. See [[dn2-thanissaro]], [[mn9-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]. [↩︎](#^thig13-5note01-ref) ^thig13-5note01
 
 See also: [[sn7.17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.4-thanissaro]]
 
@@ -772,7 +772,7 @@ Subhā the goldsmith’s daughter.
 
 3. Reading _ratā,_ delighting, with the Thai edition. The Sinhalese and PTS read _tesaṁ,_ so that the line means “in the ending of their fetters”; the Burmese edition reads _sabba-,_ so that the line means, “in the ending of all fetters.” [↩︎](#^thig13-5note03-ref) ^thig13-5note03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn106-thanissaro]]. [↩︎](#^thig13-5note04-ref) ^thig13-5note04
+4. See [[mn106-thanissaro]]. [↩︎](#^thig13-5note04-ref) ^thig13-5note04
 
 5. A student of the Buddha, declared by him to be the foremost nun in terms of her supranormal powers. See [[sn5.5-thanissaro]]. [↩︎](#^thig13-5note05-ref) ^thig13-5note05
 
@@ -780,7 +780,7 @@ Subhā the goldsmith’s daughter.
 
 7. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [[sn48.10-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]. [↩︎](#^thig13-5note07-ref) ^thig13-5note07
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn54-thanissaro]]
+See also: [[mn13-thanissaro]]; [[mn54-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -61,11 +61,11 @@ The Blessed One said, “And what, monks, are the nine step-by-step dwelling-att
 
 ### Notes
 
-1. This observation—that the _pleasure_ of equanimity is abandoned in the fourth jhāna—is also found in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn66-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.42-thanissaro]]. [↩︎](#^[[an9-thanissaro]].33note01-ref) ^[[an9-thanissaro]].33note01
+1. This observation—that the _pleasure_ of equanimity is abandoned in the fourth jhāna—is also found in [[mn66-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.42-thanissaro]]. [↩︎](#^[[an9-thanissaro]].33note01-ref) ^[[an9-thanissaro]].33note01
 
-2. “Resistance” is a translation of the Pali term, _paṭigha._ According to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]], resistance-contact results from the characteristics of form and allows mental activity to know the presence of form. In other words, if form did not put up resistance to something else taking its place, one would not know that form is present. Thus, the disappearance of perceptions of resistance aids in the mind’s ability to transcend perceptions of form and to sense, in its place, infinite space. [↩︎](#^[[an9-thanissaro]].33note02-ref) ^[[an9-thanissaro]].33note02
+2. “Resistance” is a translation of the Pali term, _paṭigha._ According to [[dn15-thanissaro]], resistance-contact results from the characteristics of form and allows mental activity to know the presence of form. In other words, if form did not put up resistance to something else taking its place, one would not know that form is present. Thus, the disappearance of perceptions of resistance aids in the mind’s ability to transcend perceptions of form and to sense, in its place, infinite space. [↩︎](#^[[an9-thanissaro]].33note02-ref) ^[[an9-thanissaro]].33note02
 
-3. “Multiplicity” is a translation of the Pali term, _nānattā._ [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn137-thanissaro]] identifies multiplicity as the input of the five physical senses. [↩︎](#^[[an9-thanissaro]].33note03-ref) ^[[an9-thanissaro]].33note03
+3. “Multiplicity” is a translation of the Pali term, _nānattā._ [[mn137-thanissaro]] identifies multiplicity as the input of the five physical senses. [↩︎](#^[[an9-thanissaro]].33note03-ref) ^[[an9-thanissaro]].33note03
 
 4. Notice that this description of the cessation of perception & feeling lacks the statement often added in passages where this attainment is described: “and, as he sees (that) with discernment, his effluents are completely ended.” [↩︎](#^[[an9-thanissaro]].33note04-ref) ^[[an9-thanissaro]].33note04
 

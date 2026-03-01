@@ -107,15 +107,15 @@ That is what the Blessed One said. Displeased, the monks did not delight in the 
 
 4. “The seen, the heard, the sensed, & the cognized” is a set of terms to cover all things experienced through the six senses. [↩︎](#^mn1note04-ref) ^mn1note04
 
-5. Singleness = experience in states of intense concentration (jhāna). Multiplicity = experience via the six senses. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn137-thanissaro]]. [↩︎](#^mn1note05-ref) ^mn1note05
+5. Singleness = experience in states of intense concentration (jhāna). Multiplicity = experience via the six senses. See [[mn137-thanissaro]]. [↩︎](#^mn1note05-ref) ^mn1note05
 
-6. “What is the All? Simply the eye & forms, ear & sounds, nose & aromas, tongue & flavors, body & tactile sensations, intellect & ideas. This is termed the All. Anyone who would say, ‘Repudiating this All, I will describe another,’ if questioned on what exactly might be the grounds for his assertion, would be unable to explain and, furthermore, would be put to grief. Why is that? Because it lies beyond range.” _—[[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]_ [↩︎](#^mn1note06-ref) ^mn1note06
+6. “What is the All? Simply the eye & forms, ear & sounds, nose & aromas, tongue & flavors, body & tactile sensations, intellect & ideas. This is termed the All. Anyone who would say, ‘Repudiating this All, I will describe another,’ if questioned on what exactly might be the grounds for his assertion, would be unable to explain and, furthermore, would be put to grief. Why is that? Because it lies beyond range.” _—[[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]_ [↩︎](#^mn1note06-ref) ^mn1note06
 
 For more on this topic, see _The Mind Like Fire Unbound,_ Chapter 1.
 
 7. Unbinding = nibbāna (nirvāṇa). [↩︎](#^mn1note07-ref) ^mn1note07
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn49-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn72-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.23-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.199-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]; [[an10.81-thanissaro]]; [[ud1.10-thanissaro]]
+See also: [[mn49-thanissaro]]; [[mn72-thanissaro]]; [[mn140-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.23-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.199-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]; [[an10.81-thanissaro]]; [[ud1.10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -115,7 +115,7 @@ note
 
 1. The reasoning here appears to be that nothing can discern itself arising and passing away, so if one can discern x arising and passing away, one cannot be identical with x. So x cannot be one’s self.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn18-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn44-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.56-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.191-thanissaro]]
+See also: [[dn15-thanissaro]]; [[mn18-thanissaro]]; [[mn44-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.56-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.191-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

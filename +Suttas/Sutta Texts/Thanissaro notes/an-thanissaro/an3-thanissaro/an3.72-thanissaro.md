@@ -59,9 +59,9 @@ On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, A
 
 Note
 
-1. This is not the same Channa as the one mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.90-thanissaro]], or the origin story to Saṅghādisesa 12.
+1. This is not the same Channa as the one mentioned in [[dn16-thanissaro]], [[sn22-34-thanissaro/sn22-thanissaro/sn22.90-thanissaro]], or the origin story to Saṅghādisesa 12.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.2-thanissaro]]; [[sn51.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.73-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.2-thanissaro]]; [[sn51.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.73-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

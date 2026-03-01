@@ -38,7 +38,7 @@ he is a sage
 
 gone beyond bonds.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn44-thanissaro]]; [[sn36.4-thanissaro]]; [[sn36.6-thanissaro]]
+See also: [[mn44-thanissaro]]; [[sn36.4-thanissaro]]; [[sn36.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

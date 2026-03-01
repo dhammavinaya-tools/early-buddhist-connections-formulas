@@ -37,7 +37,7 @@ The Blessed One said, “Monks, if you are asked by wanderers of other sects, �
 
 “(Then if they ask,) ‘But what, friends, is the reason, what the cause, why unarisen delusion does not arise, or arisen delusion is abandoned?’ ‘Appropriate attention,’ it should be said. ‘For one who attends appropriately, unarisen delusion does not arise and arisen delusion is abandoned. This is the reason, this the cause, why unarisen delusion does not arise and arisen delusion is abandoned.’”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[sn46.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.133-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti16-thanissaro]]
+See also: [[mn2-thanissaro]]; [[mn9-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[sn46.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.133-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

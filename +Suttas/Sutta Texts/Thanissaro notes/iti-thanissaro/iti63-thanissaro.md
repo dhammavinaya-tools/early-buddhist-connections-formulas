@@ -48,7 +48,7 @@ but can’t be classified.[1](#^iti63note01) ^iti63note01-ref
 
 Note
 
-1. At first glance, the verses here do not bear much relationship to the prose introduction. However, if they are viewed in the context of [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]] (see the note to [§16](iti16.html)), their relationship becomes clear: the person who applies appropriate attention to the notion of past, present, and future time does not define him or herself in those terms, and so does not cling to any sense of self in those terms. Without clinging, one is liberated from birth and death.
+1. At first glance, the verses here do not bear much relationship to the prose introduction. However, if they are viewed in the context of [[mn2-thanissaro]] (see the note to [§16](iti16.html)), their relationship becomes clear: the person who applies appropriate attention to the notion of past, present, and future time does not define him or herself in those terms, and so does not cling to any sense of self in those terms. Without clinging, one is liberated from birth and death.
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

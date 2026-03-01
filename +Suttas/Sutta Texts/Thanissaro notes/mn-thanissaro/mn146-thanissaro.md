@@ -187,15 +187,15 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 1. This phrase is not in the PTS edition. [↩︎](#^mn146note01-ref) ^mn146note01
 
-2. This simile also illustrates the point that the arahant, after awakening, is still aware of contact via the six sense media, but senses it “disjoined from it.” See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]. [↩︎](#^mn146note02-ref) ^mn146note02
+2. This simile also illustrates the point that the arahant, after awakening, is still aware of contact via the six sense media, but senses it “disjoined from it.” See [[mn140-thanissaro]]. [↩︎](#^mn146note02-ref) ^mn146note02
 
 3. The commentary explains that Ven. Nandaka introduces the topic of the seven factors of awakening here to indicate where the nuns have more work to do in their practice. From the questions and answers, it is obvious that they have developed the second factor of awakening—analysis of qualities (or dhammas)—which is the factor associated with insight and discernment. However, for their resolves to be fulfilled, they need to focus on developing the factors associated with tranquility and concentration. [↩︎](#^mn146note03-ref) ^mn146note03
 
-4. On awareness-release and discernment-release, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn43-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.30-thanissaro]], and [[an9.44-thanissaro]]. Discernment-release is always transcendent; awareness-release, only when effluent-free. [↩︎](#^mn146note04-ref) ^mn146note04
+4. On awareness-release and discernment-release, see [[mn43-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.30-thanissaro]], and [[an9.44-thanissaro]]. Discernment-release is always transcendent; awareness-release, only when effluent-free. [↩︎](#^mn146note04-ref) ^mn146note04
 
 5. Apparently, in the Buddha’s time, the 29-day lunar month was divided so that the half ending in the new moon uposatha had fourteen days, and the half ending in the full moon uposatha, fifteen. How they compensated for the fact that the lunar month is not exactly 29 days is not known. [↩︎](#^mn146note05-ref) ^mn146note05
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.80-thanissaro]]; [[sn35.93-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.101-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.193-thanissaro]]; [[sn36.7-thanissaro]]; [[sn46.51-thanissaro]]; [[sn48.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.94-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.80-thanissaro]]; [[sn35.93-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.101-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.193-thanissaro]]; [[sn36.7-thanissaro]]; [[sn46.51-thanissaro]]; [[sn48.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.94-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

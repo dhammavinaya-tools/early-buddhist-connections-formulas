@@ -35,9 +35,9 @@ There is the case where a monk often uses a robe when asked to, and rarely when 
 
 1. These eight factors are the “stream” into which a stream-enterer has entered. [↩︎](#^[[an4-thanissaro]].89note01-ref) ^[[an4-thanissaro]].89note01
 
-2. These ten factors are the path of the arahant. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn117-thanissaro]]. [↩︎](#^[[an4-thanissaro]].89note02-ref) ^[[an4-thanissaro]].89note02
+2. These ten factors are the path of the arahant. See [[mn117-thanissaro]]. [↩︎](#^[[an4-thanissaro]].89note02-ref) ^[[an4-thanissaro]].89note02
 
-3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]]. The Commentary states that this passage refers to a dry-insight arahant, one who hasn’t attained any of the jhānas. However, the “stream” that a stream-enterer has entered contains all eight factors of the noble eightfold path. One of these factors is right concentration, which consists of the four jhānas. So if every stream-enterer has experienced at least the first jhāna, and stream-entry is a lower attainment than arahantship, every arahant must have experienced at least the first jhāna as well. [↩︎](#^[[an4-thanissaro]].89note03-ref) ^[[an4-thanissaro]].89note03
+3. See [[dn15-thanissaro]]. The Commentary states that this passage refers to a dry-insight arahant, one who hasn’t attained any of the jhānas. However, the “stream” that a stream-enterer has entered contains all eight factors of the noble eightfold path. One of these factors is right concentration, which consists of the four jhānas. So if every stream-enterer has experienced at least the first jhāna, and stream-entry is a lower attainment than arahantship, every arahant must have experienced at least the first jhāna as well. [↩︎](#^[[an4-thanissaro]].89note03-ref) ^[[an4-thanissaro]].89note03
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -43,7 +43,7 @@ is said to be cleansed of evil.
 
 Note
 
-1. This description of mental purity is identical with the discussion of the five hindrances as a frame of reference in mindfulness practice. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn22-thanissaro]].
+1. This description of mental purity is identical with the discussion of the five hindrances as a frame of reference in mindfulness practice. See [[dn22-thanissaro]].
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

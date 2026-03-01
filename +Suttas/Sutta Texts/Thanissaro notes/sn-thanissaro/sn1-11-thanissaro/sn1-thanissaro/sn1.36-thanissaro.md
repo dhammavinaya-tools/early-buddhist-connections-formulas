@@ -52,7 +52,7 @@ Notes
 
 3. Aside from the final line, these last two verses are identical with [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dhp-thanissaro/dhp26-thanissaro]]. Here the final line reads, _pappoti paramaṁ sukhaṁ,_ “attains the foremost ease,” while in [[dhp27-thanissaro]] it reads, _pappoti vipulaṁ sukhaṁ,_ “attains an abundance of ease.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn1-thanissaro/sn1.59-thanissaro]]
+See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.59-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -25,9 +25,9 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 Note
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn11-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.61-thanissaro]].
+1. See [[dn11-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.61-thanissaro]].
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn1-thanissaro]]
+See also: [[mn1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -350,25 +350,25 @@ vv. 153–180
 
 1. Such _(tādin):_ An adjective applied to the mind of one who has attained the goal. It indicates that the mind “is what it is”—indescribable but not subject to change or alteration. [↩︎](#^snp1-9-01-ref) ^snp1-9-01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn6-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.71-thanissaro]]. [↩︎](#^snp1-9-02-ref) ^snp1-9-02
+2. See [[mn6-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.71-thanissaro]]. [↩︎](#^snp1-9-02-ref) ^snp1-9-02
 
 3. According to SnA, these four questions deal with the four forms of wrong speech: telling lies, speaking harshly, engaging in divisive tale-bearing, and engaging in idle chatter. [↩︎](#^snp1-9-03-ref) ^snp1-9-03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn53-thanissaro]]. [↩︎](#^snp1-9-04-ref) ^snp1-9-04
+4. See [[mn53-thanissaro]]. [↩︎](#^snp1-9-04-ref) ^snp1-9-04
 
 5. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag15-thanissaro]]. [↩︎](#^snp1-9-05-ref) ^snp1-9-05
 
-6. According to SnA, the “six” are the six internal and external sense media. See the definition of “world” in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]. [↩︎](#^snp1-9-06-ref) ^snp1-9-06
+6. According to SnA, the “six” are the six internal and external sense media. See the definition of “world” in [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]. [↩︎](#^snp1-9-06-ref) ^snp1-9-06
 
 7. The phrase, “is the world,” functions as a lamp here. [↩︎](#^snp1-9-07-ref) ^snp1-9-07
 
 8. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp1-thanissaro/snp1.3-thanissaro]]. [↩︎](#^snp1-9-08-ref) ^snp1-9-08
 
-9. On unestablished consciousness, see [[ud8.1-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]], [[snp22.87-thanissaro]], and the discussion in _The Paradox of Becoming_, chapter 7. [↩︎](#^snp1-9-09-ref) ^snp1-9-09
+9. On unestablished consciousness, see [[ud8.1-thanissaro]], [[sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]], [[snp22.87-thanissaro]], and the discussion in _The Paradox of Becoming_, chapter 7. [↩︎](#^snp1-9-09-ref) ^snp1-9-09
 
 10. Reading _ajjhatta-saññī_ with the Thai edition. The other editions read _ajjhatta-cintī,_ “internally thinking.” [↩︎](#^snp1-9-10-ref) ^snp1-9-10
 
-11. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]]. [↩︎](#^snp1-9-11-ref) ^snp1-9-11
+11. See [[sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]]. [↩︎](#^snp1-9-11-ref) ^snp1-9-11
 
 12. On the phrase, “everywhere released,” see _The Paradox of Becoming_, chapter 7. [↩︎](#^snp1-9-12-ref) ^snp1-9-12
 

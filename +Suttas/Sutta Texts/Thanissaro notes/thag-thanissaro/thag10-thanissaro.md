@@ -350,7 +350,7 @@ totally unbind.
 
 3. Obsessions: sensual passion, resistance, views, uncertainty, conceit, passion for becoming, and ignorance. See [[an7.11-thanissaro]]. [↩︎](#^thag10-5note03-ref) ^thag10-5note03
 
-4. Hindrances: sensual desire, ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]] and [[sn46.51-thanissaro]]. [↩︎](#^thag10-5note04-ref) ^thag10-5note04
+4. Hindrances: sensual desire, ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty. See [[dn2-thanissaro]] and [[sn46.51-thanissaro]]. [↩︎](#^thag10-5note04-ref) ^thag10-5note04
 
 5. The root of becoming: craving. [↩︎](#^thag10-5note05-ref) ^thag10-5note05
 

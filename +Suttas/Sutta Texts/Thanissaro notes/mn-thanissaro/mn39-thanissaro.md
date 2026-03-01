@@ -117,7 +117,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 3. The following passages are all based on word play in the Pali. [↩︎](#^mn39note03-ref) ^mn39note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]]–30]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]].html)
+See also: [[dn2-thanissaro]]; [[mn29-thanissaro]]–30]([[mn29-thanissaro]].html)
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

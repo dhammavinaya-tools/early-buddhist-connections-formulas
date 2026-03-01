@@ -35,7 +35,7 @@ Then Ven. Ānanda went to the Blessed One and, on arrival, bowed down to him and
 
 “Thus kamma is the field, consciousness the seed, and craving the moisture. The intention & aspiration of living beings hindered by ignorance & fettered by craving is established in/tuned to a refined property. Thus there is the production of renewed becoming in the future. This is how there is becoming.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn60-thanissaro]]; [[an1.329-thanissaro]]
+See also: [[mn60-thanissaro]]; [[an1.329-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

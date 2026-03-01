@@ -75,7 +75,7 @@ Note
 
 1. The “Between-the-Eights” is a period in February, regarded in northern India as the coldest part of the year.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn10-thanissaro/sn10.8-thanissaro]]; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
+See also: [[sn1-11-thanissaro/sn10-thanissaro/sn10.8-thanissaro]]; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -65,7 +65,7 @@ So Sakka the deva-king—just as a strong man might extend his flexed arm or fle
 
 “Up to now, Ven. Uttara, the four companies—monks, nuns, lay men, & lay women—have not established this Dhamma-discourse among human beings. Take up this Dhamma-discourse, Ven. Uttara! Master this Dhamma-discourse, Ven. Uttara! Remember this Dhamma-discourse, Ven. Uttara! Connected with the goal is this Dhamma-discourse, and basic to the holy life!”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn58-thanissaro]]
+See also: [[mn58-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

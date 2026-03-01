@@ -30,7 +30,7 @@ no further becoming.
 
 ### Notes
 
-1. In [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn138-thanissaro]], Ven. MahāKaccāna offers the following explanation of this cryptic statement: [↩︎](#^iti94note01-ref) ^iti94note01
+1. In [[mn138-thanissaro]], Ven. MahāKaccāna offers the following explanation of this cryptic statement: [↩︎](#^iti94note01-ref) ^iti94note01
 
 “And how is consciousness said not to be externally scattered & diffused? There is the case where, having seen a form with the eye, consciousness does not follow the drift of the theme of the form, is not tied to… chained to… fettered, or joined to the attraction of the theme of the form. Consciousness is said not to be externally scattered & diffused. [Similarly with the other senses.] …
 

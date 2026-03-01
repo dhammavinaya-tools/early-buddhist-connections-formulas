@@ -73,13 +73,13 @@ Then Ven. Samiddhi went to Ven. Sāriputta and, on arrival, having bowed down to
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^[[an9-thanissaro]].14note01-ref) ^[[an9-thanissaro]].14note01
+1. See [[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^[[an9-thanissaro]].14note01-ref) ^[[an9-thanissaro]].14note01
 
 2. [[sn14.1-thanissaro]]–5 identifies the multiplicity of properties _[dhātu]_ with the six internal sense-media. [[sn14.6-thanissaro]]–10 identifies it with the six external sense media. [[sn14.12-thanissaro]], however, identifies six properties that directly have an impact on thoughts and resolves: three unskillful (the properties of sensuality, ill will, and harmfulness) and three skillful (the properties of renunciation, non-ill will, and harmlessness). All of these lists are pertinent here. [↩︎](#^[[an9-thanissaro]].14note02-ref) ^[[an9-thanissaro]].14note02
 
 3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]]. [↩︎](#^[[an9-thanissaro]].14note03-ref) ^[[an9-thanissaro]].14note03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn30-thanissaro]]. [↩︎](#^[[an9-thanissaro]].14note04-ref) ^[[an9-thanissaro]].14note04
+4. See [[mn29-thanissaro]] and [[mn30-thanissaro]]. [↩︎](#^[[an9-thanissaro]].14note04-ref) ^[[an9-thanissaro]].14note04
 
 5. The image here derives from a standard analogy comparing the practice to the act of crossing a river. According to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.15-thanissaro]], the point where the meditator gains footing on the river bottom, but before getting up on the bank, corresponds to the attainment of non-return. To become an arahant is to go beyond the river and stand on firm ground. [↩︎](#^[[an9-thanissaro]].14note05-ref) ^[[an9-thanissaro]].14note05
 

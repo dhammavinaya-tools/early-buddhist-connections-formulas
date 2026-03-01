@@ -50,7 +50,7 @@ self-awakening.
 
 2. According to the Commentary, this refers to a monk’s tendency to be overly intimate with lay people, overly susceptible to the rises and falls in their fortunes, “happy when they are happy, sad when they are sad, busying himself with their affairs.” [↩︎](#^iti80note02-ref) ^iti80note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]
+See also: [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

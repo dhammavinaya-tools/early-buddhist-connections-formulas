@@ -89,7 +89,7 @@ rightly self-awakened ones.[2](#^[[an4-thanissaro]].67note02) ^[[an4-thanissaro]
 
 ### Notes
 
-1. The Virūpakkhas are the chiefs of the nagas, associated with the western quarter (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn20-thanissaro]]). The other royal lineages of snakes are nowhere else mentioned in the Pali Canon, and the commentary to this discourse doesn’t identify them. The Dark Gotamakas may be the cobra family. [↩︎](#^[[an4-thanissaro]].67note01-ref) ^[[an4-thanissaro]].67note01
+1. The Virūpakkhas are the chiefs of the nagas, associated with the western quarter (see [[dn20-thanissaro]]). The other royal lineages of snakes are nowhere else mentioned in the Pali Canon, and the commentary to this discourse doesn’t identify them. The Dark Gotamakas may be the cobra family. [↩︎](#^[[an4-thanissaro]].67note01-ref) ^[[an4-thanissaro]].67note01
 
 2. The seven most recent Buddhas, including “our” Buddha, are mentioned in [[dn14-thanissaro]] & [[dn32-thanissaro]]: Vipassin, Sikhin, Vessabhū, Kakusandha, Koṇāgamana, Kassapa, and Gotama. It’s noteworthy that the concept of the seven Buddhas is associated with protective charms. For example, the heart of the charm given in [[dn32-thanissaro]] is this: [↩︎](#^[[an4-thanissaro]].67note02-ref) ^[[an4-thanissaro]].67note02
 

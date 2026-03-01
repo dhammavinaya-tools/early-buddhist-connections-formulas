@@ -278,9 +278,9 @@ vv.18–34
 
 2. The first line in the Buddha’s verse plays on words in the first line of Dhaniya’s. “Free from anger” _(akkodhano)_ plays on “rice is cooked” _(pakkodano);_ and “rigidity” _(khilo)_ plays on “milk” _(khīro)._ [↩︎](#^snp1-2-02-ref) ^snp1-2-02
 
-3. “Open” means having a mind not covered or concealed by craving, defilement, or ignorance. This image is also used at [[ud5.5-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.4-thanissaro]]. “My fire out” refers to the fires of passion, aversion, & delusion; birth, aging, & death; sorrow, lamentation, pain, distress, & despair. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti93-thanissaro]]; and _The Mind Like Fire Unbound._ [↩︎](#^snp1-2-03-ref) ^snp1-2-03
+3. “Open” means having a mind not covered or concealed by craving, defilement, or ignorance. This image is also used at [[ud5.5-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.4-thanissaro]]. “My fire out” refers to the fires of passion, aversion, & delusion; birth, aging, & death; sorrow, lamentation, pain, distress, & despair. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti93-thanissaro]]; and _The Mind Like Fire Unbound._ [↩︎](#^snp1-2-03-ref) ^snp1-2-03
 
-4. The raft stands for the noble eightfold path. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn22-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]_._ [↩︎](#^snp1-2-04-ref) ^snp1-2-04
+4. The raft stands for the noble eightfold path. See [[mn22-thanissaro]] and [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]_._ [↩︎](#^snp1-2-04-ref) ^snp1-2-04
 
 5. As this verse doesn’t seem to be a direct response to the preceding one, SnA suggests that we are missing part of the conversation here. An alternative possibility is that the Buddha is engaging in word play—the word “crossed over” _(tiṇṇa)_ being a pun on Dhaniya’s reference to grass _(tiṇa)._ [↩︎](#^snp1-2-05-ref) ^snp1-2-05
 
@@ -288,11 +288,11 @@ vv.18–34
 
 7. The Buddha may be speaking literally here—he has no cattle, so there is no way that a heavy rain could cause him harm—but he may also be speaking metaphorically. See [[sn4.19-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]. [↩︎](#^snp1-2-07-ref) ^snp1-2-07
 
-8. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn66-thanissaro]]. [↩︎](#^snp1-2-08-ref) ^snp1-2-08
+8. See [[mn66-thanissaro]]. [↩︎](#^snp1-2-08-ref) ^snp1-2-08
 
 9. This verse is quoted in the Milinda Pañhā. [↩︎](#^snp1-2-09-ref) ^snp1-2-09
 
-10. On the theme of the Buddha as “One with Eyes,” see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]], note 44. See also, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.12-thanissaro]]. [↩︎](#^snp1-2-10-ref) ^snp1-2-10
+10. On the theme of the Buddha as “One with Eyes,” see [[dn16-thanissaro]], note 44. See also, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.12-thanissaro]]. [↩︎](#^snp1-2-10-ref) ^snp1-2-10
 
 11. According to SnA, Māra suddenly comes on the scene to try—unsuccessfully—to prevent Dhaniya and his wife from going forth. His verses here, together with the Buddha’s response, are also found at [[sn4.8-thanissaro]]. [↩︎](#^snp1-2-11-ref) ^snp1-2-11
 

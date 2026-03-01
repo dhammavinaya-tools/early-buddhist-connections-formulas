@@ -66,7 +66,7 @@ Note
 
 1. Magadha was a kingdom in the time of the Buddha, corresponding roughly to the present day state of Bihar. Its capital city, Rājagaha, was surrounded by a ring of five mountains. Vulture Peak, a secluded rock outcrop in the middle of the ring, was a spot frequented by the Buddha.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn15-thanissaro/sn15.3-thanissaro]]
+See also: [[sn12-21-thanissaro/sn15-thanissaro/sn15.3-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

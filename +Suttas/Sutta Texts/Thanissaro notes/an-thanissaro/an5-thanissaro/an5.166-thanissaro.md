@@ -83,9 +83,9 @@ Then the Blessed One, arising from his seclusion in the late afternoon, went to 
 
 Note
 
-1. Not to be confused with the concentration that would lead one to be reborn among the devas called Non-percipient Beings, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn1-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn33-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn34-thanissaro]]. As [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn1-thanissaro]] makes clear, that concentration does not lead to a noble attainment, as birth as a Non-percipient Being can actually lead one to develop wrong view in a subsequent birth.
+1. Not to be confused with the concentration that would lead one to be reborn among the devas called Non-percipient Beings, mentioned in [[dn1-thanissaro]], [[dn15-thanissaro]], [[dn33-thanissaro]], and [[dn34-thanissaro]]. As [[dn1-thanissaro]] makes clear, that concentration does not lead to a noble attainment, as birth as a Non-percipient Being can actually lead one to develop wrong view in a subsequent birth.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn44-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn111-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.17-thanissaro]]; [[dhp260-thanissaro]]
+See also: [[mn43-thanissaro]]; [[mn44-thanissaro]]; [[mn111-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.17-thanissaro]]; [[dhp260-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -27,7 +27,7 @@ The mind 	is the one thing
 	that has the all
 	under its sway.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dhp-thanissaro/dhp1-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dhp-thanissaro/dhp1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

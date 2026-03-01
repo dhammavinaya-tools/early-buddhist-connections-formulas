@@ -182,11 +182,11 @@ vv. 1–17
 
 2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti49-thanissaro]]. [↩︎](#^snp1-1-02-ref) ^snp1-1-02
 
-3. On objectification, see Sn [4:11, note 4](StNp4_11.html#stnp_note4.11.04), and the introduction to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn18-thanissaro]]. [↩︎](#^snp1-1-03-ref) ^snp1-1-03
+3. On objectification, see Sn [4:11, note 4](StNp4_11.html#stnp_note4.11.04), and the introduction to [[mn18-thanissaro]]. [↩︎](#^snp1-1-03-ref) ^snp1-1-03
 
-4. The seven obsessions, listed in [[an7.11-thanissaro]], are: sensual passion, resistance, views, uncertainty, conceit, passion for becoming, and ignorance. The relationship of three of these obsessions—the first two and the last—to the three types of feeling is discussed in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn44-thanissaro]]. [↩︎](#^snp1-1-04-ref) ^snp1-1-04
+4. The seven obsessions, listed in [[an7.11-thanissaro]], are: sensual passion, resistance, views, uncertainty, conceit, passion for becoming, and ignorance. The relationship of three of these obsessions—the first two and the last—to the three types of feeling is discussed in [[mn44-thanissaro]]. [↩︎](#^snp1-1-04-ref) ^snp1-1-04
 
-5. _Daratha._ For a detailed description of the subtleties of disturbance, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]]. [↩︎](#^snp1-1-05-ref) ^snp1-1-05
+5. _Daratha._ For a detailed description of the subtleties of disturbance, see [[mn121-thanissaro]]. [↩︎](#^snp1-1-05-ref) ^snp1-1-05
 
 6. Underbrush stands for desire. See [Dhp 344](../Dhp/Ch24.html#dhp344). [↩︎](#^snp1-1-06-ref) ^snp1-1-06
 

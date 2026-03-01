@@ -79,7 +79,7 @@ all bad destinations.[2](#^[[an3-thanissaro]].34note02) ^[[an3-thanissaro]].34no
 
 The word “sheds” acts as a “lamp” in this verse—it appears only once, but functions in two phrases, as I have rendered it in the translation. On the use of the lamp as a literary figure of speech, see the Introduction to _Dhammapada: A Translation._
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.101-thanissaro]]
+See also: [[sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.101-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

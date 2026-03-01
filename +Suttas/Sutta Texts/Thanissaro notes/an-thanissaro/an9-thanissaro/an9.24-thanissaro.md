@@ -39,11 +39,11 @@ language: "English"
 
 ### Notes
 
-1. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn137-thanissaro]] indicates that perceptions of multiplicity deal with the six senses, whereas perceptions of singularity act as the basis of the four formless attainments. Here, however, perceptions of singularity include the perceptions acting as the basis for the first jhāna. [↩︎](#^[[an9-thanissaro]].24note01-ref) ^[[an9-thanissaro]].24note01
+1. [[mn137-thanissaro]] indicates that perceptions of multiplicity deal with the six senses, whereas perceptions of singularity act as the basis of the four formless attainments. Here, however, perceptions of singularity include the perceptions acting as the basis for the first jhāna. [↩︎](#^[[an9-thanissaro]].24note01-ref) ^[[an9-thanissaro]].24note01
 
-2. The Thai edition of [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]] adds here: “and (some) beings in the four realms of deprivation.” This phrase is not found in the Sri Lankan, Burmese, or PTS editions of [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]], nor is it found in any of the editions of this sutta. However, without it there is nothing to cover the beings in the lower realms not included in the first abode for beings. They would appear to belong here or—if singularity of perception has to relate to the jhānas—to the following category. [↩︎](#^[[an9-thanissaro]].24note02-ref) ^[[an9-thanissaro]].24note02
+2. The Thai edition of [[dn15-thanissaro]] adds here: “and (some) beings in the four realms of deprivation.” This phrase is not found in the Sri Lankan, Burmese, or PTS editions of [[dn15-thanissaro]], nor is it found in any of the editions of this sutta. However, without it there is nothing to cover the beings in the lower realms not included in the first abode for beings. They would appear to belong here or—if singularity of perception has to relate to the jhānas—to the following category. [↩︎](#^[[an9-thanissaro]].24note02-ref) ^[[an9-thanissaro]].24note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.86-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn23-thanissaro/sn23.2-thanissaro]]; [[sn44.9-thanissaro]]; 
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.86-thanissaro]]; [[sn22-34-thanissaro/sn23-thanissaro/sn23.2-thanissaro]]; [[sn44.9-thanissaro]]; 
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

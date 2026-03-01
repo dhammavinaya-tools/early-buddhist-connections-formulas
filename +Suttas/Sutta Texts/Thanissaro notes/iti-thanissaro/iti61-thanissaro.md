@@ -42,7 +42,7 @@ released.
 
 Note
 
-1. For a description of what is seen with the divine eye, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]].
+1. For a description of what is seen with the divine eye, see [[dn2-thanissaro]].
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

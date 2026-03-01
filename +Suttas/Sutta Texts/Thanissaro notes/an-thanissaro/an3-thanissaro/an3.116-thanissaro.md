@@ -25,7 +25,7 @@ language: "English"
 
 “These, monks, are three persons to be found existing in the world.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn72-thanissaro]]; [[sn44.1-thanissaro]]; [[ud4.2-thanissaro]]
+See also: [[mn72-thanissaro]]; [[sn44.1-thanissaro]]; [[ud4.2-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

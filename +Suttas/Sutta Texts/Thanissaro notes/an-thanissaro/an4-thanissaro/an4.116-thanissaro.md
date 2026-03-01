@@ -21,7 +21,7 @@ language: "English"
 
 ### Notes
 
-1. In [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn41-thanissaro]], right view concerning kamma and rebirth is included under good mental conduct. The fact that right view is mentioned separately here may mean that, in this context, “right view” means right view as defined in the noble eightfold path, i.e., knowledge in terms of suffering, the origination of suffering, the cessation of suffering, and the path of practice leading to the cessation of suffering. [↩︎](#^[[an4-thanissaro]].116note01-ref) ^[[an4-thanissaro]].116note01
+1. In [[mn41-thanissaro]], right view concerning kamma and rebirth is included under good mental conduct. The fact that right view is mentioned separately here may mean that, in this context, “right view” means right view as defined in the noble eightfold path, i.e., knowledge in terms of suffering, the origination of suffering, the cessation of suffering, and the path of practice leading to the cessation of suffering. [↩︎](#^[[an4-thanissaro]].116note01-ref) ^[[an4-thanissaro]].116note01
 
 2. This seems to mean that, although one may fear the pain of death, one has no fear of where one will be reborn after death. [↩︎](#^[[an4-thanissaro]].116note02-ref) ^[[an4-thanissaro]].116note02
 

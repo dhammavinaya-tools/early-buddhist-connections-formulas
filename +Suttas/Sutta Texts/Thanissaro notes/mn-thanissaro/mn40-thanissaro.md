@@ -77,11 +77,11 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 1. Given the widespread misperception that arahantship is a selfish goal, it’s important to take note of this statement—that part of the motivation to become an arahant is how it will benefit other people. [↩︎](#^mn40note01-ref) ^mn40note01
 
-2. The first ten stains of a contemplative are identical with the first ten of the sixteen defilements listed in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn7-thanissaro]].]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn7-thanissaro]].html) [↩︎](#^mn40note02-ref) ^mn40note02
+2. The first ten stains of a contemplative are identical with the first ten of the sixteen defilements listed in [[mn7-thanissaro]].]([[mn7-thanissaro]].html) [↩︎](#^mn40note02-ref) ^mn40note02
 
 3. Reading _samaṇa-kasāvānaṁ_ with the Thai edition. Other editions read _samaṇa-kasaṭānaṁ:_ dregs of a contemplative. [↩︎](#^mn40note03-ref) ^mn40note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]]–30]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]].html); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn61-thanissaro]]; [[an3.83-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.123-thanissaro]]; [[dhp258-thanissaro]]; [[dhp264-thanissaro]]
+See also: [[dn2-thanissaro]]; [[mn29-thanissaro]]–30]([[mn29-thanissaro]].html); [[mn39-thanissaro]]; [[mn61-thanissaro]]; [[an3.83-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.123-thanissaro]]; [[dhp258-thanissaro]]; [[dhp264-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -31,7 +31,7 @@ a monk should live the wandering life
 	—mindful—
 for the abandoning of self-identity.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an10/an10.51-thanissaro]]; [[Clean Files 3/Thanissaro 2/thag-thanissaro-notes-fixed-FLAT/thag1-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an10/an10.51-thanissaro]]; [[Clean Files 3/Thanissaro 2/thag-thanissaro-notes-fixed-FLAT/thag1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -138,7 +138,7 @@ b) The Buddha has seen further that all unskillful qualities are rooted in ignor
 
 c) The Buddha has also seen that ignorance is the root of all the factors of dependent co-arising.
 
-For another sense in which the Buddha has seen the root, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn1-thanissaro]].
+For another sense in which the Buddha has seen the root, see [[mn1-thanissaro]].
 
 2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.4-thanissaro]] for another answer to a very similar question. [↩︎](#^snp5-3-02-ref) ^snp5-3-02
 
@@ -154,7 +154,7 @@ The Buddha answers that it is possible, and that such a concentration can be att
 
 In [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]], the Buddha identifies four ways of developing concentration: “There is the development of concentration that, when developed & pursued, leads to a pleasant abiding in the here-&-now. There is the development of concentration that, when developed & pursued, leads to the attainment of knowledge & vision. There is the development of concentration that, when developed & pursued, leads to mindfulness & alertness. There is the development of concentration that, when developed & pursued, leads to the ending of the effluents.” The Buddha then adds that he uttered the last verse of this poem in connection with these four ways of developing concentration.
 
-Although the verse does not mention concentration explicitly, the use of the phrase, “nothing perturbing” is apparently a reference to the states of concentration called imperturbable. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn102-thanissaro]], note 2, and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn106-thanissaro]], note 1.
+Although the verse does not mention concentration explicitly, the use of the phrase, “nothing perturbing” is apparently a reference to the states of concentration called imperturbable. See [[mn102-thanissaro]], note 2, and [[mn106-thanissaro]], note 1.
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

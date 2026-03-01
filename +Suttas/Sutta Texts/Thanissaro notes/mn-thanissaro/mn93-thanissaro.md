@@ -157,7 +157,7 @@ When this was said, the brahman student Assalāyana said to the Blessed One: “
 
 1. Reading _capalī_ with the Thai edition of the Canon. The PTS edition has _vasalī_ (“one having a vile person (as a mother?)”); the Sri Lankan edition, _vasala,_ “vile person.” [↩︎](#^mn93note01-ref) ^mn93note01
 
-2. This description of the conditions for birth is identical with one the Buddha himself gives in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn38-thanissaro]]. Apparently in the Buddha’s time it was a common feature among those who taught rebirth. [↩︎](#^mn93note02-ref) ^mn93note02
+2. This description of the conditions for birth is identical with one the Buddha himself gives in [[mn38-thanissaro]]. Apparently in the Buddha’s time it was a common feature among those who taught rebirth. [↩︎](#^mn93note02-ref) ^mn93note02
 
 See also: [[sn3.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.191-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.11-thanissaro]]
 

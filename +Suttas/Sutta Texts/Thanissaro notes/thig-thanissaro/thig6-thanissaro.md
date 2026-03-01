@@ -432,7 +432,7 @@ of those mired in illness & death.
 
 1. Reading _bhavit’aṭṭhaṅgiko maggo_ with the Thai edition. [↩︎](#^thig6-8note01-ref) ^thig6-8note01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]] on the topic of how homage is best shown to the Buddha. [↩︎](#^thig6-6note02-ref) ^thig6-6note02
+2. See [[dn16-thanissaro]] on the topic of how homage is best shown to the Buddha. [↩︎](#^thig6-6note02-ref) ^thig6-6note02
 
 3. Mahāpajāpatī’s sister, the Buddha’s mother. [↩︎](#^thig6-6note03-ref) ^thig6-6note03
 

@@ -270,13 +270,13 @@ Such were the questions that the Blessed One answered at Sakka’s bidding. And 
 
 ### Notes
 
-1. Objectification = _papañca._ The tendency of the mind to proliferate issues from the sense of “I am the thinker.” This term can also be translated as self-reflexive thinking, reification, falsification, distortion, elaboration, or exaggeration. In the discourses, it is frequently used in analyses of the psychology of conflict. The categories of objectification include the categories of inappropriate attention (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]]): being/not-being, me/not-me, mine/not-mine, doer/done-to. The perceptions of objectification include such thoughts as “This is me. This is mine. This is my self.” These perceptions and categories turn back on the person who allows them to proliferate, giving rise to internal conflict & strife, which then expand outward. For more on these terms, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn18-thanissaro]]. [↩︎](#^dn21note01-ref) ^dn21note01
+1. Objectification = _papañca._ The tendency of the mind to proliferate issues from the sense of “I am the thinker.” This term can also be translated as self-reflexive thinking, reification, falsification, distortion, elaboration, or exaggeration. In the discourses, it is frequently used in analyses of the psychology of conflict. The categories of objectification include the categories of inappropriate attention (see [[mn2-thanissaro]]): being/not-being, me/not-me, mine/not-mine, doer/done-to. The perceptions of objectification include such thoughts as “This is me. This is mine. This is my self.” These perceptions and categories turn back on the person who allows them to proliferate, giving rise to internal conflict & strife, which then expand outward. For more on these terms, see [[mn18-thanissaro]]. [↩︎](#^dn21note01-ref) ^dn21note01
 
-2. For more on this topic, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn101-thanissaro]] and 137. [↩︎](#^dn21note02-ref) ^dn21note02
+2. For more on this topic, see [[mn101-thanissaro]] and 137. [↩︎](#^dn21note02-ref) ^dn21note02
 
-3. For more on this topic, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn26-thanissaro]]. [↩︎](#^dn21note03-ref) ^dn21note03
+3. For more on this topic, see [[mn26-thanissaro]]. [↩︎](#^dn21note03-ref) ^dn21note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn11-thanissaro/sn11.5-thanissaro]]
+See also: [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

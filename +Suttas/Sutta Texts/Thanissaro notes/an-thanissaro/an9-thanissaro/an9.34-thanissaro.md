@@ -61,7 +61,7 @@ subdue their desire.”
 
 2. In other words, even though the fourth jhāna is characterized by equanimity, the act of taking mental note of that fact would disturb the stillness of the jhāna. This point is also found in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.41-thanissaro]]. [↩︎](#^[[an9-thanissaro]].34note02-ref) ^[[an9-thanissaro]].34note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.42-thanissaro]]; [[dhp202-thanissaro]]; [[dhp381-thanissaro]]; [[ud2.1-thanissaro]]–2](../KN/Ud/ud2_1.html); [[ud8.1-thanissaro]]–4](../KN/Ud/ud8_1.html)
+See also: [[mn121-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.42-thanissaro]]; [[dhp202-thanissaro]]; [[dhp381-thanissaro]]; [[ud2.1-thanissaro]]–2](../KN/Ud/ud2_1.html); [[ud8.1-thanissaro]]–4](../KN/Ud/ud8_1.html)
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

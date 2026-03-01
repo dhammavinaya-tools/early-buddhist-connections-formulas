@@ -25,7 +25,7 @@ language: "English"
 
 “When one exercises ardency for the non-arising of unarisen evil, unskillful qualities, when one exercises ardency for the arising of unarisen skillful qualities, and when one exercises ardency for enduring bodily feelings that have arisen and are painful, racking, sharp, piercing, disagreeable, displeasing, & menacing to life, then one is said to be a monk who is ardent, adept, & mindful for the right ending of suffering & stress.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn16-thanissaro/sn16.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti34-thanissaro]]
+See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti34-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

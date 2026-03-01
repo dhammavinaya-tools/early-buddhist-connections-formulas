@@ -524,7 +524,7 @@ vv. 510–547
 
 3. _Ussada:_ According to SnA, this means such forms of defilement as passion, aversion, delusion, pride, and conceit. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.14-thanissaro]]. [↩︎](#^snp3-6-03-ref) ^snp3-6-03
 
-4. In other words, one who is dispassionate to the sense faculties and their objects. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.153-thanissaro]]. [↩︎](#^snp3-6-04-ref) ^snp3-6-04
+4. In other words, one who is dispassionate to the sense faculties and their objects. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.153-thanissaro]]. [↩︎](#^snp3-6-04-ref) ^snp3-6-04
 
 5. This is a reference to an image more fully elaborated in Thag 11 and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag14-thanissaro]]: [↩︎](#^snp3-6-05-ref) ^snp3-6-05
 
@@ -558,7 +558,7 @@ mindful, alert.
 
 12. As with “field,” SnA identifies “storehouses” as storehouses of kamma. Here there is alliteration between _kosāni_ (storehouses) and _kusalo_ (skillful). [↩︎](#^snp3-6-12-ref) ^snp3-6-12
 
-13. _Paṇḍara = Pāṇdura_ (Skt.): _Anogeissus Latifolia._ According to SnA, “white flowers” stands for the six sense media, in that they are normally pure and yet can grow (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]). An alternative possibility is that “white flowers” stands for states of mind marked by a perception of whiteness—such as the white-totality, and the mastery described in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] as follows: [↩︎](#^snp3-6-13-ref) ^snp3-6-13
+13. _Paṇḍara = Pāṇdura_ (Skt.): _Anogeissus Latifolia._ According to SnA, “white flowers” stands for the six sense media, in that they are normally pure and yet can grow (see [[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]). An alternative possibility is that “white flowers” stands for states of mind marked by a perception of whiteness—such as the white-totality, and the mastery described in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] as follows: [↩︎](#^snp3-6-13-ref) ^snp3-6-13
 
 “One percipient of the formless internally sees forms externally as white, white in their color, white in their features, white in their glow. Just as the morning star is white, white in its color, white in its features, white in its glow, or just as Vārāṇasī muslin, smooth on both sides, is white, white in its color, white in its features, white in its glow, in the same way one percipient of the formless internally sees forms externally as white, white in their color, white in their features, white in their glow. Mastering them, he is percipient of ‘I know; I see.’”
 
@@ -568,7 +568,7 @@ This verse contains an alliteration that can, without force, be replicated in En
 
 14_._ Here there is a play on words with _vedāni_ (knowledges) and _vedanā_ (feelings).
 
-15. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn18-thanissaro]], introduction. [↩︎](#^snp3-6-15-ref) ^snp3-6-15
+15. See [[mn18-thanissaro]], introduction. [↩︎](#^snp3-6-15-ref) ^snp3-6-15
 
 16. Reading _vīro_ with GD, rather than _dhīro,_ which is found in the printed editions but doesn’t seem to fit the context. (See the note in GD to verse 44 in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]], which comments on the tendency of the textual tradition to confuse these two words.) This reading would give the verse three alliterated words: _virato_ (abstaining), _viriyavā_ (one with persistence), and _vīro_ (hero). [↩︎](#^snp3-6-16-ref) ^snp3-6-16
 
@@ -582,7 +582,7 @@ The alliteration in this verse is between _ālayāni_ (attachments) and _ariyo_ 
 
 20. This verse contains an alliteration between _paribbājayitvā_ (avoiding) and _paribbājaka_ (wanderer). [↩︎](#^snp3-6-20-ref) ^snp3-6-20
 
-21. According to SnA, the 63 wrong views comprise the 62 wrong views mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn1-thanissaro]] along with the wrong view of self-identity _(sakkāya-diṭṭhi)._ [↩︎](#^snp3-6-21-ref) ^snp3-6-21
+21. According to SnA, the 63 wrong views comprise the 62 wrong views mentioned in [[dn1-thanissaro]] along with the wrong view of self-identity _(sakkāya-diṭṭhi)._ [↩︎](#^snp3-6-21-ref) ^snp3-6-21
 
 22. According to SnA, these are classes of devas noted for their discernment. [↩︎](#^snp3-6-22-ref) ^snp3-6-22
 
@@ -592,7 +592,7 @@ The alliteration in this verse is between _ālayāni_ (attachments) and _ariyo_ 
 
 25. The word “feet”—_pāde_—functions as a lamp here. [↩︎](#^snp3-6-25-ref) ^snp3-6-25
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]; [[ud1.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
+See also: [[dn2-thanissaro]]; [[ud1.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

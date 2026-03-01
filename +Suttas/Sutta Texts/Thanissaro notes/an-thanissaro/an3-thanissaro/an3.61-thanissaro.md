@@ -85,7 +85,7 @@ So the Blessed One said to the brahman Saṅgārava, “Brahman, what was the to
 
 2. _Tathattā_ literally means “thus-ness.” On the thus-ness of the Tathāgata, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]. [↩︎](#^[[an3-thanissaro]].61note02-ref) ^[[an3-thanissaro]].61note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn11-thanissaro]]; [[sn41.4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.35-thanissaro]]; [[an4.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]
+See also: [[dn2-thanissaro]]; [[dn11-thanissaro]]; [[sn41.4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.35-thanissaro]]; [[an4.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

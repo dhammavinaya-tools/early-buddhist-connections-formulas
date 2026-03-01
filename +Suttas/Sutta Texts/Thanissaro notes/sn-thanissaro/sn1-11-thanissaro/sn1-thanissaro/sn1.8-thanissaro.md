@@ -15,7 +15,7 @@ language: "English"
 ## ## Susammuṭṭha Sutta
 
 
-_Like the similar sutta [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn1-thanissaro/sn1.7-thanissaro]], this sutta offers evidence in support of the translation, “awakened” for the Pali term,_ Buddha. _The verses draw a direct connection between two words derived from the same root: the adjective_ sambuddha, _a variant of_ buddha, _and the verb_ pābujjhati, _which in context clearly means to awaken from sleep._
+_Like the similar sutta [[sn1-11-thanissaro/sn1-thanissaro/sn1.7-thanissaro]], this sutta offers evidence in support of the translation, “awakened” for the Pali term,_ Buddha. _The verses draw a direct connection between two words derived from the same root: the adjective_ sambuddha, _a variant of_ buddha, _and the verb_ pābujjhati, _which in context clearly means to awaken from sleep._
 
 Standing to one side, a devatā addressed the Blessed One with a verse:
 

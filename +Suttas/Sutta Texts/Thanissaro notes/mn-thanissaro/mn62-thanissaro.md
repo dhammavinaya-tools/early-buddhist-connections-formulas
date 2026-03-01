@@ -87,11 +87,11 @@ That is what the Blessed One said. Gratified, Ven. Rāhula delighted in the Bles
 
 2. The preceding passage in braces is missing from the editions on which both _MLS_ and _MLDB_ are based. [↩︎](#^mn62note02-ref) ^mn62note02
 
-3. For notes on these sixteen steps, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn118-thanissaro]]. [↩︎](#^mn62note03-ref) ^mn62note03
+3. For notes on these sixteen steps, see [[mn118-thanissaro]]. [↩︎](#^mn62note03-ref) ^mn62note03
 
 4. In other words, one dies fully alert. [↩︎](#^mn62note04-ref) ^mn62note04
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn118-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn147-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.1-thanissaro]]
+See also: [[mn28-thanissaro]]; [[mn61-thanissaro]]; [[mn118-thanissaro]]; [[mn140-thanissaro]]; [[mn147-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

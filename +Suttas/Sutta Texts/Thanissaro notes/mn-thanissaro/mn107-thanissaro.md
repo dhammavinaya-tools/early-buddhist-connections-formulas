@@ -77,7 +77,7 @@ Note
 
 1. To the fore _(parimukhaṁ):_ An Abhidhamma text, Vibhaṅga 12:1, when discussing mindfulness of breathing, defines this term as meaning “the tip of the nose or the sign of the mouth.” However, in the suttas the term appears as part of a stock phrase describing a person engaged in meditation, even for themes that have nothing to do with the body at all, such as sublime-attitude _(brahma-vihāra)_ meditation ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.64-thanissaro]]). Thus it seems more likely that the term is used in an idiomatic sense, indicating either that mindfulness is placed face-to-face with its object, or that it is made prominent, which is how I have translated it here.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn137-thanissaro]]; [[dhp274-thanissaro]]
+See also: [[mn137-thanissaro]]; [[dhp274-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

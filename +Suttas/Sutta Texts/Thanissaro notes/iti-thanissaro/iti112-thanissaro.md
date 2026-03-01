@@ -108,7 +108,7 @@ _This, too, was the meaning of what was said by the Blessed One, so I have heard
 
 ### Notes
 
-1. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]] defines the “world“ as the six sense spheres, their objects, consciousness at those spheres, contact at those spheres, and whatever arises in dependence on that contact, experienced as pleasure, pain, or neither pleasure nor pain. [↩︎](#^iti112note01-ref) ^iti112note01
+1. [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]] defines the “world“ as the six sense spheres, their objects, consciousness at those spheres, contact at those spheres, and whatever arises in dependence on that contact, experienced as pleasure, pain, or neither pleasure nor pain. [↩︎](#^iti112note01-ref) ^iti112note01
 
 2. This passage parallels, with one change, the duties appropriate to the four nobles truths: abandoning the origination of stress, realizing its cessation, and developing the path of practice leading to its cessation. The one deviation is that whereas the duty with regard to stress is to comprehend it, here the Tathāgata is disjoined from the world. See [[sn56.11-thanissaro]]. [↩︎](#^iti112note02-ref) ^iti112note02
 
@@ -120,7 +120,7 @@ _This, too, was the meaning of what was said by the Blessed One, so I have heard
 
 This itivuttaka is identical with [[an4.23-thanissaro]].
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn72-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn146-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[an10.81-thanissaro]]; [§63](iti63.html); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.6-thanissaro]]
+See also: [[mn72-thanissaro]]; [[mn140-thanissaro]]; [[mn146-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[an10.81-thanissaro]]; [§63](iti63.html); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

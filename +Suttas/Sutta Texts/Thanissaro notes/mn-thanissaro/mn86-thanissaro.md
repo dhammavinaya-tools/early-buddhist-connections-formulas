@@ -333,7 +333,7 @@ done.
 
 ### Notes
 
-1. The PTS reading here, followed in _MLS_ and _MLDB_—“I will not stamp him out”—is surely a mistake. I follow the Thai reading on this passage, even though it is somewhat ungrammatical. There are passages in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn90-thanissaro]] where King Pasenadi’s sentences don’t quite parse, and perhaps this is another example of his brusque language. [↩︎](#^mn86note01-ref) ^mn86note01
+1. The PTS reading here, followed in _MLS_ and _MLDB_—“I will not stamp him out”—is surely a mistake. I follow the Thai reading on this passage, even though it is somewhat ungrammatical. There are passages in [[mn90-thanissaro]] where King Pasenadi’s sentences don’t quite parse, and perhaps this is another example of his brusque language. [↩︎](#^mn86note01-ref) ^mn86note01
 
 2. This blessing is often chanted at house blessings in Theravāda countries. [↩︎](#^mn86note02-ref) ^mn86note02
 
@@ -353,7 +353,7 @@ done.
 
 10. “This” apparently refers to the abundant bliss mentioned in the previous verse. [↩︎](#^mn86note10-ref) ^mn86note10
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn11-thanissaro]]; [[sn41.4-thanissaro]]
+See also: [[dn11-thanissaro]]; [[sn41.4-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

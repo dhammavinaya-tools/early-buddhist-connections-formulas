@@ -636,7 +636,7 @@ That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sārip
 
 2. This concentration, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.1-thanissaro]], is apparently equivalent to the concentration that is the fruit of gnosis, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.37-thanissaro]]. [↩︎](#^dn34note02-ref) ^dn34note02
 
-3. _Akuppa._ This term is sometimes translated as “unshakable,” but it literally means, “unprovoked.” The reference is apparently to the theory of _dhātu,_ or properties underlying physical or psychological events in nature. The physical properties according to this theory are four: earth (solidity), liquid, heat, and wind (motion). Three of them—liquid, heat, & wind—are potentially active. When they are aggravated, agitated, or provoked—the Pali term here, _pakuppati,_ is used also on the psychological level, where it means angered or upset—they act as the underlying cause for natural activity. When the provocation ends, the corresponding activity subsides. (See the description of the physical properties in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn28-thanissaro]].) [↩︎](#^dn34note03-ref) ^dn34note03
+3. _Akuppa._ This term is sometimes translated as “unshakable,” but it literally means, “unprovoked.” The reference is apparently to the theory of _dhātu,_ or properties underlying physical or psychological events in nature. The physical properties according to this theory are four: earth (solidity), liquid, heat, and wind (motion). Three of them—liquid, heat, & wind—are potentially active. When they are aggravated, agitated, or provoked—the Pali term here, _pakuppati,_ is used also on the psychological level, where it means angered or upset—they act as the underlying cause for natural activity. When the provocation ends, the corresponding activity subsides. (See the description of the physical properties in [[mn28-thanissaro]].) [↩︎](#^dn34note03-ref) ^dn34note03
 
 A similar theory attributes the irruption of mental states to the provocation of the properties of sensuality, form, or formlessness.
 
@@ -648,9 +648,9 @@ Thus, knowledge of the unprovoked or unprovoked knowledge would be knowledge of 
 
 4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.47-thanissaro]]. [↩︎](#^dn34note04-ref) ^dn34note04
 
-5. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn4-thanissaro]]. [↩︎](#^dn34note05-ref) ^dn34note05
+5. See [[mn4-thanissaro]]. [↩︎](#^dn34note05-ref) ^dn34note05
 
-6. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^dn34note06-ref) ^dn34note06
+6. See [[sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^dn34note06-ref) ^dn34note06
 
 7. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.179-thanissaro]]. [↩︎](#^dn34note07-ref) ^dn34note07
 
@@ -662,7 +662,7 @@ Thus, knowledge of the unprovoked or unprovoked knowledge would be knowledge of 
 
 11. See [[sn46.52-thanissaro]]. [↩︎](#^dn34note11-ref) ^dn34note11
 
-12. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn53-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn34note12-ref) ^dn34note12
+12. See [[mn53-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn34note12-ref) ^dn34note12
 
 13. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.64-thanissaro]]. [↩︎](#^dn34note13-ref) ^dn34note13
 
@@ -676,21 +676,21 @@ Thus, knowledge of the unprovoked or unprovoked knowledge would be knowledge of 
 
 18. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.6-thanissaro]]. [↩︎](#^dn34note18-ref) ^dn34note18
 
-19. These are identical with the nine inopportune, untimely situations for leading the holy life listed in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn33-thanissaro]], omitting one situation: The Tathāgata appears in the world, but one is reborn at that time as an asura. [↩︎](#^dn34note19-ref) ^dn34note19
+19. These are identical with the nine inopportune, untimely situations for leading the holy life listed in [[dn33-thanissaro]], omitting one situation: The Tathāgata appears in the world, but one is reborn at that time as an asura. [↩︎](#^dn34note19-ref) ^dn34note19
 
-20. For more detail on the thoughts of a great person, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.30-thanissaro]]. For more information on objectification, see the Introduction to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn18-thanissaro]]. [↩︎](#^dn34note20-ref) ^dn34note20
+20. For more detail on the thoughts of a great person, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.30-thanissaro]]. For more information on objectification, see the Introduction to [[mn18-thanissaro]]. [↩︎](#^dn34note20-ref) ^dn34note20
 
-21. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn24-thanissaro]] for a discussion of the first seven of these purities. [↩︎](#^dn34note21-ref) ^dn34note21
+21. See [[mn24-thanissaro]] for a discussion of the first seven of these purities. [↩︎](#^dn34note21-ref) ^dn34note21
 
-22. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]]. [↩︎](#^dn34note22-ref) ^dn34note22
+22. See [[dn15-thanissaro]]. [↩︎](#^dn34note22-ref) ^dn34note22
 
 23. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn34note23-ref) ^dn34note23
 
-24. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn44-thanissaro]]. [↩︎](#^dn34note24-ref) ^dn34note24
+24. See [[mn44-thanissaro]]. [↩︎](#^dn34note24-ref) ^dn34note24
 
 25. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.165-thanissaro]]. [↩︎](#^dn34note25-ref) ^dn34note25
 
-26. For a discussion of the things to be acquiesced to, avoided, and destroyed, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]]. [↩︎](#^dn34note26-ref) ^dn34note26
+26. For a discussion of the things to be acquiesced to, avoided, and destroyed, see [[mn2-thanissaro]]. [↩︎](#^dn34note26-ref) ^dn34note26
 
 27. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn34note27-ref) ^dn34note27
 

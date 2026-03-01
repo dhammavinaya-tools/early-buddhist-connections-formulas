@@ -146,15 +146,15 @@ vv. 772–779
 
 3. Nd I: “In front” means experienced in the past (as does “before” two lines down); “behind” means to-be-experienced in the future. [↩︎](#^snp4-2-03-ref) ^snp4-2-03
 
-4. Nd I: “The discordant _(visama)_ way” means the ten types of unskillful action (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn41-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn97-thanissaro]], and AN 10:176). See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]. [↩︎](#^snp4-2-04-ref) ^snp4-2-04
+4. Nd I: “The discordant _(visama)_ way” means the ten types of unskillful action (see [[mn41-thanissaro]], [[mn97-thanissaro]], and AN 10:176). See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]. [↩︎](#^snp4-2-04-ref) ^snp4-2-04
 
-5. States of not-becoming are oblivious states of becoming that people can get themselves into through a desire for annihilation, either after death or as a goal of their religious striving (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti49-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn49-thanissaro]]). As with all states of becoming, these states are impermanent and stressful. [↩︎](#^snp4-2-05-ref) ^snp4-2-05
+5. States of not-becoming are oblivious states of becoming that people can get themselves into through a desire for annihilation, either after death or as a goal of their religious striving (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti49-thanissaro]] and [[mn49-thanissaro]]). As with all states of becoming, these states are impermanent and stressful. [↩︎](#^snp4-2-05-ref) ^snp4-2-05
 
 6. According to Nd I, “both sides” here has several possible meanings: sensory contact and the origination of sensory contact; past and future; name and form; internal and external sense media; self-identity and the origination of self-identity. It also might mean states of becoming and not-becoming, mentioned in the previous verse and below, in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.5-thanissaro]]. [↩︎](#^snp4-2-06-ref) ^snp4-2-06
 
 7. Nd I: Comprehending sensory contact has three aspects: being able to identity and distinguish types of sensory contact; contemplating the true nature of sensory contact (e.g., inconstant, stressful, and not-self); and abandoning attachment to sensory contact. The same three aspects would apply to comprehending perception, as mentioned in the following verse. [↩︎](#^snp4-2-07-ref) ^snp4-2-07
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.15-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.15-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

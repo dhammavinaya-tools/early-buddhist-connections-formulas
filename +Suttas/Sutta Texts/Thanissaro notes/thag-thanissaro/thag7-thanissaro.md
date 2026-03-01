@@ -82,7 +82,7 @@ the Buddha’s bidding,
 
 done.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]]
+See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

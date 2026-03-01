@@ -25,7 +25,7 @@ language: "English"
 
 “Knowledge & vision arose in me: ‘Unprovoked is my release. This is the last birth. There is now no further-becoming.’”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]; [[ud8.3-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.2-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]; [[ud8.3-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

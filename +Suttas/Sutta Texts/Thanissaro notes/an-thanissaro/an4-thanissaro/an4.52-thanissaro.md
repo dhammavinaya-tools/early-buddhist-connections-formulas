@@ -43,7 +43,7 @@ remembering the Buddhas’ teachings.’”[1](#^[[an4-thanissaro]].52note01) ^[
 
 Note
 
-1. These verses also appear in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn11-thanissaro/sn11.14-thanissaro]] and [[sn55.26-thanissaro]]. In Thailand, they are often chanted in ceremonies for dedicating merit to those who have passed away.
+1. These verses also appear in [[sn1-11-thanissaro/sn11-thanissaro/sn11.14-thanissaro]] and [[sn55.26-thanissaro]]. In Thailand, they are often chanted in ceremonies for dedicating merit to those who have passed away.
 
 See also: [[sn55.31-thanissaro]]
 

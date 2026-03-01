@@ -41,7 +41,7 @@ Note
 
 1. This and the remaining strengths constitute five of the seven lists of qualities that make up the Wings to Awakening. The two missing lists are the four right exertions and the five strengths. The four exertions may have been omitted here because they are identical with the factor of right effort in the noble eightfold path. As for the five strengths, there may be two reasons for why they are omitted. The first, suggested by [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.163-thanissaro]], is that they pertain to the lower levels of noble attainment—stream-entry through non-returning—whereas the five faculties, which cover the same qualities as the five strengths (conviction, persistence, mindfulness, concentration, and discernment), constitute a higher intensity of these qualities pertaining exclusively to arahantship. The second possible reason is that listing the five strengths as one of eight strengths would have been confusing.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]]: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn48-thanissaro]]; [[sn48.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.75-thanissaro]]
+See also: [[dn16-thanissaro]]: [[mn48-thanissaro]]; [[sn48.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.75-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -662,23 +662,23 @@ vv. 724–765
 
 4. Arousal = _ārambha,_ a word with many possible alternative meanings. Among them: disruption; seizure of an object; inception of action (often with violent connotations). [↩︎](#^snp3-12-04-ref) ^snp3-12-04
 
-5. “There are these four nutriments for the maintenance of beings who have come into being or for the support of those in search of a place to be born. Which four? Physical food, gross or refined; contact as the second, intellectual intention the third, and consciousness the fourth.” — [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. For more on this topic, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^snp3-12-05-ref) ^snp3-12-05
+5. “There are these four nutriments for the maintenance of beings who have come into being or for the support of those in search of a place to be born. Which four? Physical food, gross or refined; contact as the second, intellectual intention the third, and consciousness the fourth.” — [[sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. For more on this topic, see [[sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^snp3-12-05-ref) ^snp3-12-05
 
 6. See [Dhp 92–93](../Dhp/Ch07.html#dhp092). [↩︎](#^snp3-12-06-ref) ^snp3-12-06
 
-7. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti63-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]. [↩︎](#^snp3-12-07-ref) ^snp3-12-07
+7. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti63-thanissaro]], [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]], and [[sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]. [↩︎](#^snp3-12-07-ref) ^snp3-12-07
 
 8. See [[ud8.4-thanissaro]]. [↩︎](#^snp3-12-08-ref) ^snp3-12-08
 
 9. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti72-thanissaro]]. [↩︎](#^snp3-12-09-ref) ^snp3-12-09
 
-10. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn113-thanissaro]], note 3. [↩︎](#^snp3-12-10-ref) ^snp3-12-10
+10. See [[mn113-thanissaro]], note 3. [↩︎](#^snp3-12-10-ref) ^snp3-12-10
 
-11. “His release, being founded on truth, does not fluctuate, for whatever is deceptive is false; unbinding—the undeceptive—is true. Thus a monk so endowed is endowed with the highest determination for truth, for this—unbinding, the undeceptive—is the highest noble truth.” — [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]] [↩︎](#^snp3-12-11-ref) ^snp3-12-11
+11. “His release, being founded on truth, does not fluctuate, for whatever is deceptive is false; unbinding—the undeceptive—is true. Thus a monk so endowed is endowed with the highest determination for truth, for this—unbinding, the undeceptive—is the highest noble truth.” — [[mn140-thanissaro]] [↩︎](#^snp3-12-11-ref) ^snp3-12-11
 
-12. On Māra’s sway, see [[sn4.19-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]. [↩︎](#^snp3-12-12-ref) ^snp3-12-12
+12. On Māra’s sway, see [[sn4.19-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]], and [[sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]. [↩︎](#^snp3-12-12-ref) ^snp3-12-12
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]; [[snp12.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.94-thanissaro]]; [[sn35.93-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti103-thanissaro]]
+See also: [[dn15-thanissaro]]; [[mn9-thanissaro]]; [[mn140-thanissaro]]; [[snp12.1-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.94-thanissaro]]; [[sn35.93-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti103-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

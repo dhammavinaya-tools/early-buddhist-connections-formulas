@@ -70,9 +70,9 @@ they, the Such.
 
 2. Such _(tādin):_ An adjective to describe one who has attained the goal. It indicates that the person’s state is undefinable and not subject to change or influence of any sort. [↩︎](#^iti44note02-ref) ^iti44note02
 
-3. Following the reading in the Burmese and PTS editions: _dhamma-sārādigamā khaye ratā._ The Thai edition reads, _dhamma-sārādigamakkhaye ratā_–delighting in the ending of the attaining of the Dhamma’s heartwood–which doesn’t make sense. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]] & [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn30-thanissaro]]. [↩︎](#^iti44note03-ref) ^iti44note03
+3. Following the reading in the Burmese and PTS editions: _dhamma-sārādigamā khaye ratā._ The Thai edition reads, _dhamma-sārādigamakkhaye ratā_–delighting in the ending of the attaining of the Dhamma’s heartwood–which doesn’t make sense. See [[mn29-thanissaro]] & [[mn30-thanissaro]]. [↩︎](#^iti44note03-ref) ^iti44note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]
+See also: [[mn140-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

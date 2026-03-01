@@ -39,7 +39,7 @@ Note
 
 “There comes a time, friends, when the external fire property is provoked and consumes village, town, city, district, & country; and then, coming to the edge of a green district, the edge of a road, the edge of a rocky district, to the water’s edge, or to a lush, well-watered area, goes out from lack of sustenance. There comes a time when people try to make fire using a wing-bone & tendon parings…
 
-“There comes a time, friends, when the external wind property is provoked and blows away village, town, city, district, & country. There comes a time when, in the last month of the hot season, people try to start a breeze with a fan or bellows, and even the grass at the fringe of a thatch roof doesn’t stir.” _—[[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn28-thanissaro]]_
+“There comes a time, friends, when the external wind property is provoked and blows away village, town, city, district, & country. There comes a time when, in the last month of the hot season, people try to start a breeze with a fan or bellows, and even the grass at the fringe of a thatch roof doesn’t stir.” _—[[mn28-thanissaro]]_
 
 A similar theory attributes the irruption of mental states to the provocation of the properties of sensuality, form, or formlessness.
 
@@ -49,7 +49,7 @@ Even unbinding is described as a property ([[+Suttas/Sutta Texts/Thanissaro/Than
 
 2. When the mind is released from hindrances as it enters concentration, when it is released from the factors of lower levels of concentration as it enters higher levels of concentration, and when it is released from the fetters on reaching awakening.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]; 
+See also: [[mn29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]; 
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

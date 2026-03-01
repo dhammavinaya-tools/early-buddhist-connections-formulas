@@ -116,7 +116,7 @@ should go forth
 
 Note
 
-1. On the meaning of “soggy,” see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]] and [[ud5.5-thanissaro]].
+1. On the meaning of “soggy,” see [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]] and [[ud5.5-thanissaro]].
 
 ## Thag2.19  Nanda
 
@@ -132,7 +132,7 @@ I, practicing appropriately,
 	plucked my mind
 out of becoming.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn21-thanissaro/sn21.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.9-thanissaro]]; [[ud3.2-thanissaro]]
+See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.9-thanissaro]]; [[ud3.2-thanissaro]]
 
 ## Thag2.24  Valliya
 
@@ -212,7 +212,7 @@ the Awakened One’s thoroughbred child,
 
 his son.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn146-thanissaro]]
+See also: [[mn146-thanissaro]]
 
 ## Thag2.3  Valliya
 
@@ -238,7 +238,7 @@ You’re bound by discernment.
 
 You won’t get far away.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]
 
 ## Thag2.30  Kaṇhadinna
 
@@ -411,7 +411,7 @@ to conviction & virtue,
 confidence & Dhamma-vision,
 	remembering the Buddhas’ message.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn11-thanissaro/sn11.14-thanissaro]]; [[sn55.26-thanissaro]]
+See also: [[sn1-11-thanissaro/sn11-thanissaro/sn11.14-thanissaro]]; [[sn55.26-thanissaro]]
 
 ## Thag2.43  Brahmāli
 

@@ -31,7 +31,7 @@ _An example of how pointed the Buddha’s sense of humor could be. The deadpan s
 
 “These, monks, are the five ancient brahmanical traditions that are now observed among dogs but not among brahmans.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn93-thanissaro]]; [[sn3.24-thanissaro]]
+See also: [[dn11-thanissaro]]; [[mn93-thanissaro]]; [[sn3.24-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

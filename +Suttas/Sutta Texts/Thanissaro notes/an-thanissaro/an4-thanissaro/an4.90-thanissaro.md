@@ -33,11 +33,11 @@ There is the case where a monk often uses a robe when asked to, and rarely when 
 
 ### Notes
 
-1. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.89-thanissaro]] describes this contemplation as the path leading to arahantship. [↩︎](#^[[an4-thanissaro]].90note01-ref) ^[[an4-thanissaro]].90note01
+1. [[sn22-34-thanissaro/sn22-thanissaro/sn22.89-thanissaro]] describes this contemplation as the path leading to arahantship. [↩︎](#^[[an4-thanissaro]].90note01-ref) ^[[an4-thanissaro]].90note01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]]. The Commentary states that this passage refers to a dry-insight arahant, one who hasn’t attained any of the jhānas. However, the “stream” that a stream-enterer has entered contains all eight factors of the noble eightfold path. One of these factors is right concentration, which consists of the four jhānas. So if every stream-enterer has experienced at least the first jhāna, and stream-entry is a lower attainment than arahantship, every arahant must have experienced at least the first jhāna as well. [↩︎](#^[[an4-thanissaro]].90note02-ref) ^[[an4-thanissaro]].90note02
+2. See [[dn15-thanissaro]]. The Commentary states that this passage refers to a dry-insight arahant, one who hasn’t attained any of the jhānas. However, the “stream” that a stream-enterer has entered contains all eight factors of the noble eightfold path. One of these factors is right concentration, which consists of the four jhānas. So if every stream-enterer has experienced at least the first jhāna, and stream-entry is a lower attainment than arahantship, every arahant must have experienced at least the first jhāna as well. [↩︎](#^[[an4-thanissaro]].90note02-ref) ^[[an4-thanissaro]].90note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.56-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti16-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.56-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -108,7 +108,7 @@ When this was said, the brahman Lohicca said to the Blessed One, “But is there
 
 “So after some time he abandons his mass of wealth, large or small; leaves his circle of relatives, large or small; shaves off his hair & beard, puts on the ochre robes, and goes forth from the household life into homelessness.
 
-“When he has thus gone forth, he lives restrained by the rules of the monastic code, seeing danger in the slightest faults. Consummate in his virtue, he guards the doors of his senses, is possessed of mindfulness & alertness, and is content [for details, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]] ...
+“When he has thus gone forth, he lives restrained by the rules of the monastic code, seeing danger in the slightest faults. Consummate in his virtue, he guards the doors of his senses, is possessed of mindfulness & alertness, and is content [for details, see [[dn2-thanissaro]]] ...
 
 #### Abandoning the Hindrances
 
@@ -148,7 +148,7 @@ When this was said, the brahman Lohicca said to the Blessed One, “But is there
 
 When this was said, the brahman Lohicca said to the Blessed One: “Master Gotama, it’s as if a man, having seized by the hair another man who was falling into the pit of hell, were to pull him up & set him on firm ground. In the same way, Master Gotama has pulled me up as I was falling into the pit of hell and has set me on firm ground. Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn137-thanissaro]]; [[sn6.1-thanissaro]]; [[an2.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.111-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.8-thanissaro]]
+See also: [[mn95-thanissaro]]; [[mn137-thanissaro]]; [[sn6.1-thanissaro]]; [[an2.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.111-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.8-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

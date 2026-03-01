@@ -41,7 +41,7 @@ and with respect for hospitality
 
 is right in the presence of unbinding.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]
+See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

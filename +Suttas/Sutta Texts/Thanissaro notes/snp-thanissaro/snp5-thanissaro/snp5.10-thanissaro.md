@@ -60,9 +60,9 @@ vv. 1092–1095
 
 ### Notes
 
-1. On the Dhamma as an island, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]]. [↩︎](#^snp5-10-01-ref) ^snp5-10-01
+1. On the Dhamma as an island, see [[dn16-thanissaro]]. [↩︎](#^snp5-10-01-ref) ^snp5-10-01
 
-2. On Māra’s sway, see [[sn4.19-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]. [↩︎](#^snp5-10-02-ref) ^snp5-10-02
+2. On Māra’s sway, see [[sn4.19-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]], and [[sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]. [↩︎](#^snp5-10-02-ref) ^snp5-10-02
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

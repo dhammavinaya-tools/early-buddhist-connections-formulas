@@ -27,7 +27,7 @@ Then Anāthapiṇḍika the householder went to the Blessed One and, on arrival,
 
 “In the same way, when the mind is protected, bodily actions… verbal actions… mental actions are protected as well… One’s bodily… verbal… mental actions don’t get soggy… One’s bodily… verbal… mental actions don’t rot. When one’s bodily actions, verbal actions, & mental actions don’t rot, auspicious is one’s death, auspicious one’s passing away.”
 
-See also: [[sn3.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]; [[sn48.52-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.129-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]
+See also: [[sn3.5-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]; [[sn48.52-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.129-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -39,13 +39,13 @@ language: "English"
 
 ### Notes
 
-1. The text here has _antamakāsi_—“has put an end to”—which does not fit the context as well as the reading, _andhamakāsi_—“has put in the dark”—found in the parallel passage in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn25-thanissaro]], so I have followed the latter reading here. [↩︎](#^[[an9-thanissaro]].39note01-ref) ^[[an9-thanissaro]].39note01
+1. The text here has _antamakāsi_—“has put an end to”—which does not fit the context as well as the reading, _andhamakāsi_—“has put in the dark”—found in the parallel passage in [[mn25-thanissaro]], so I have followed the latter reading here. [↩︎](#^[[an9-thanissaro]].39note01-ref) ^[[an9-thanissaro]].39note01
 
-2. The interpretation of this image here differs from that in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn25-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn26-thanissaro]], both of which state that the monk puts Māra in the dark upon entering the first jhāna. In either case—putting Māra in the dark beginning with the first jhāna, or only beginning with the dimension of the infinitude of space—the “dark” is temporary, lasting only as long as one is in that attainment. [↩︎](#^[[an9-thanissaro]].39note02-ref) ^[[an9-thanissaro]].39note02
+2. The interpretation of this image here differs from that in [[mn25-thanissaro]] and [[mn26-thanissaro]], both of which state that the monk puts Māra in the dark upon entering the first jhāna. In either case—putting Māra in the dark beginning with the first jhāna, or only beginning with the dimension of the infinitude of space—the “dark” is temporary, lasting only as long as one is in that attainment. [↩︎](#^[[an9-thanissaro]].39note02-ref) ^[[an9-thanissaro]].39note02
 
 3. This is the only one of these attainments that inherently contains the discernment that takes one, once and for all, beyond attachment in the cosmos. [↩︎](#^[[an9-thanissaro]].39note03-ref) ^[[an9-thanissaro]].39note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn26-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]
+See also: [[mn4-thanissaro]]; [[mn26-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

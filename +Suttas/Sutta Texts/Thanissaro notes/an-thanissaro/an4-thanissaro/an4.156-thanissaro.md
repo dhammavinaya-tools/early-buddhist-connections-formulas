@@ -27,7 +27,7 @@ language: "English"
 
 “These, monks, are the four uncountables of an eon.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn15-thanissaro/sn15.5-thanissaro]]
+See also: [[sn12-21-thanissaro/sn15-thanissaro/sn15.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

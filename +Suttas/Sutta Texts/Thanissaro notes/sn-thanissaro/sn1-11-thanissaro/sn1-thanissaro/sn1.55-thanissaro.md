@@ -35,7 +35,7 @@ A being         rushes toward the wandering-on.
 
 Suffering            is one’s great danger.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn23-thanissaro/sn23.2-thanissaro]]; [Khp 4](../KN/Khp/khp4.html)
+See also: [[sn22-34-thanissaro/sn23-thanissaro/sn23.2-thanissaro]]; [Khp 4](../KN/Khp/khp4.html)
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

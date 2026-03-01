@@ -142,7 +142,7 @@ vv. 83–90
 
 2. “That one” = the path-corrupter. [↩︎](#^snp1-5-02-ref) ^snp1-5-02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]]; AN 10:176
+See also: [[dn16-thanissaro]]; AN 10:176
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

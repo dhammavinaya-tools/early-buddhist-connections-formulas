@@ -348,7 +348,7 @@ vv. 284–315
 
 5. Reading _sabbaso_ with the Thai edition. The other editions read _bhāgaso,_ “laid out.” [↩︎](#^snp2-7-05-ref) ^snp2-7-05
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn60-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn93-thanissaro]]; [[sn3.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.191-thanissaro]]
+See also: [[mn60-thanissaro]]; [[mn93-thanissaro]]; [[sn3.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.191-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

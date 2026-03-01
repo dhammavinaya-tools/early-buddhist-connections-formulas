@@ -25,7 +25,7 @@ language: "English"
 
 “Thus, monks, you should train yourselves: ‘Strong will be our desire for the undertaking of the training in heightened virtue. Strong will be our desire for the undertaking of the training in heightened mind. Strong will be our desire for the undertaking of the training in heightened discernment.’ That’s how you should train yourselves.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

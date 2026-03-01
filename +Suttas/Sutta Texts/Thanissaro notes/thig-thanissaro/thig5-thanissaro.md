@@ -66,7 +66,7 @@ Note
 
 1. Reading _pajjotass’eva_ with the Thai edition.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn72-thanissaro]]; [[sn6.15-thanissaro]]; [[ud8.10-thanissaro]]
+See also: [[mn72-thanissaro]]; [[sn6.15-thanissaro]]; [[ud8.10-thanissaro]]
 
 ## Thig5.11  Paṭācārā’s Thirty Students
 
@@ -332,7 +332,7 @@ Note
 
 1. Reading _na bujjhi’ham_ with the Burmese and Sinhalese editions.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]
+See also: [[mn29-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]
 
 ## Thig5.8  Soṇā, Mother of Ten
 

@@ -27,7 +27,7 @@ language: "English"
 
 “These are the four inconceivables that are not to be conjectured about, that would bring madness & vexation to anyone who conjectured about them.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn136-thanissaro]]
+See also: [[mn63-thanissaro]]; [[mn136-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

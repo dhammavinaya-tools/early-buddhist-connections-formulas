@@ -73,7 +73,7 @@ That is what Tāyana the deva’s son said. Having said it, he bowed down to me 
 
 “Learn Tāyana’s verses, monks. Master Tāyana’s verses, monks. Remember Tāyana’s verses, monks. Connected with the goal are Tāyana’s verses, monks, and basic to the holy life.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an4/an4.245-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an8/an8.13-thanissaro]]; [[Clean Files 3/Thanissaro 2/snp-thanissaro-notes-fixed-topfolders/snp2/snp2.6-thanissaro]]; [[dhp307-thanissaro]]; [[dhp311-thanissaro]]; [[ud5.5-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an4/an4.245-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an8/an8.13-thanissaro]]; [[Clean Files 3/Thanissaro 2/snp-thanissaro-notes-fixed-topfolders/snp2/snp2.6-thanissaro]]; [[dhp307-thanissaro]]; [[dhp311-thanissaro]]; [[ud5.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

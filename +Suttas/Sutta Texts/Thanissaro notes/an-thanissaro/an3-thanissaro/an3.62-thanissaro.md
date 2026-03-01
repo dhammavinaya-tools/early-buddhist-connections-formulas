@@ -95,7 +95,7 @@ From the cessation of becoming comes the cessation of birth. From the cessation 
 
 “‘“There are these four noble truths” is a Dhamma taught by me that is unrefuted, undefiled, blameless, not faulted by knowledgeable contemplatives & brahmans’: Thus was it said. And in reference to this was it said.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn101-thanissaro]]; [[sn42.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.101-thanissaro]]; [[ud6.5-thanissaro]]–6](../KN/Ud/ud6_5.html)
+See also: [[dn2-thanissaro]]; [[mn101-thanissaro]]; [[sn42.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.101-thanissaro]]; [[ud6.5-thanissaro]]–6](../KN/Ud/ud6_5.html)
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

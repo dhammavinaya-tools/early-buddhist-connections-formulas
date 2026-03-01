@@ -49,7 +49,7 @@ Notes
 
 2. Reading _bojjhaṅga-tapasā_ with the Thai version. The Burmese version has _bojjhā tapasā,_ “from awakening, from austerity.” The Commentary notes that _bojjhaṅga/bojjhā_ refers to the development of the factors of awakening (see [[Clean Files 3/Thanissaro 2/mn-thani/mn118-thanissaro]]). _Tapasā,_ it says, refers to undertaking the dhutaṅga practices (see [[Clean Files 3/Thanissaro 2/thag-thanissaro-notes-fixed-FLAT/thag16-thanissaro]]).
 
-3. On the definition of the all, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]].
+3. On the definition of the all, see [[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]].
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

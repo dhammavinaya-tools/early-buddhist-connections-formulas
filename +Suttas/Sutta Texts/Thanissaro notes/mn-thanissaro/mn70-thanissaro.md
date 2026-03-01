@@ -93,7 +93,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ### Notes
 
-1. Pācittiya 37 forbids monks from eating during the period from noon until the following dawn. According to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn66-thanissaro]], the Buddha introduced this restriction in stages, first forbidding the afternoon meal, and then the nighttime meal. [↩︎](#^mn70note01-ref) ^mn70note01
+1. Pācittiya 37 forbids monks from eating during the period from noon until the following dawn. According to [[mn66-thanissaro]], the Buddha introduced this restriction in stages, first forbidding the afternoon meal, and then the nighttime meal. [↩︎](#^mn70note01-ref) ^mn70note01
 
 2. Assaji and Punabbasu were two of the six ringleaders of the notorious “group-of-six” monks, whose misbehavior led to the formulation of many rules in the Vinaya. (The group is named after the number of ringleaders, not the number of members, which—according to the Commentary—reached more than one thousand.) In the origin story to Saṅghādisesa 13, the monks led by Assaji and Punabbasu behaved in many inappropriate ways to please the lay families of Kīṭāgiri, to the point where the Kīṭāgiri laypeople ridiculed well-behaved monks and refused to give them alms. [↩︎](#^mn70note02-ref) ^mn70note02
 
@@ -101,7 +101,7 @@ The Pali phrase for “monks led by Assaji and Punabbasu” is _assaji-punabbasu
 
 3. On the mental faculties, see [[sn48.10-thanissaro]]. On heedfulness, see [[sn48.56-thanissaro]] and [[sn55.40-thanissaro]]. [↩︎](#^mn70note03-ref) ^mn70note03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]] and [[an9.45-thanissaro]]. [↩︎](#^mn70note04-ref) ^mn70note04
+4. See [[dn15-thanissaro]] and [[an9.45-thanissaro]]. [↩︎](#^mn70note04-ref) ^mn70note04
 
 5. See [[an9.44-thanissaro]]. [↩︎](#^mn70note05-ref) ^mn70note05
 
@@ -111,9 +111,9 @@ The Pali phrase for “monks led by Assaji and Punabbasu” is _assaji-punabbasu
 
 8. According to the Commentary, this category and the following one include those who have reached the path to stream-entry, but not yet the fruit of stream-entry. [↩︎](#^mn70note08-ref) ^mn70note08
 
-9. The steps of the practice, as presented here, follow the same sequence as that discussed in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn95-thanissaro]]. However, in that sutta, the sequence is prefaced by instructions on how to determine whether a teacher is worthy of conviction. [↩︎](#^mn70note09-ref) ^mn70note09
+9. The steps of the practice, as presented here, follow the same sequence as that discussed in [[mn95-thanissaro]]. However, in that sutta, the sequence is prefaced by instructions on how to determine whether a teacher is worthy of conviction. [↩︎](#^mn70note09-ref) ^mn70note09
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn25-thanissaro/sn25.1-thanissaro]]; [[sn48.44-thanissaro]]; [[sn55.25-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.131-thanissaro]]
+See also: [[mn22-thanissaro]]; [[mn27-thanissaro]]; [[mn95-thanissaro]]; [[sn22-34-thanissaro/sn25-thanissaro/sn25.1-thanissaro]]; [[sn48.44-thanissaro]]; [[sn55.25-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.131-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

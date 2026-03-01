@@ -83,9 +83,9 @@ When this was said, Piṅgalakoccha the brahman said to the Blessed One: “Magn
 
 2. The Commentary explains that the first jhāna is listed as higher than knowledge & vision here because it is being presented in its role as a step toward cessation. The same principle holds for the other stages of concentration up through the dimension of neither perception nor non-perception. [↩︎](#^mn30note02-ref) ^mn30note02
 
-3. _Akuppa._ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]], note 3]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]].html#mn29note03). [↩︎](#^mn30note03-ref) ^mn30note03
+3. _Akuppa._ See [[mn29-thanissaro]], note 3]([[mn29-thanissaro]].html#mn29note03). [↩︎](#^mn30note03-ref) ^mn30note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]]
+See also: [[mn43-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

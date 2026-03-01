@@ -302,7 +302,7 @@ vv. 376–404
 
 4. According to SnA, Erāvaṇa was one of the devas dwelling in the heaven of the Thirty-three. An elephant in a previous life, he enjoyed taking on the form of a gigantic magical elephant (one of the meanings of _“nāga”),_ displaying many powers, for the entertainment of the other devas in that heaven. [↩︎](#^snp2-14-04-ref) ^snp2-14-04
 
-5. One of the four Great Kings, ruling over the yakkhas. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn20-thanissaro]] and DN 32. Neither Erāvaṇa’s nor Kuvera’s visit to the Buddha is mentioned elsewhere in the Canon, although SnA insists that Kuvera’s took place soon after the events reported in AN 7:53, in which he conversed with the lay woman, Nandamātā. [↩︎](#^snp2-14-05-ref) ^snp2-14-05
+5. One of the four Great Kings, ruling over the yakkhas. See [[dn20-thanissaro]] and DN 32. Neither Erāvaṇa’s nor Kuvera’s visit to the Buddha is mentioned elsewhere in the Canon, although SnA insists that Kuvera’s took place soon after the events reported in AN 7:53, in which he conversed with the lay woman, Nandamātā. [↩︎](#^snp2-14-05-ref) ^snp2-14-05
 
 6. An epithet of Sakka, king of the devas in the heaven of the Thirty-three. [↩︎](#^snp2-14-06-ref) ^snp2-14-06
 
@@ -312,7 +312,7 @@ vv. 376–404
 
 9_. Dhammika,_ a reference to the interlocutor’s name.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.46-thanissaro]]
+See also: [[mn66-thanissaro]]; [[mn70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.46-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

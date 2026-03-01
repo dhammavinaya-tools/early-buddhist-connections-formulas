@@ -90,7 +90,7 @@ f) Self-identity is the first side, the origination of self-identity the second,
 
 The issue is then taken to the Buddha, who states that all six interpretations are well-spoken, but the interpretation he had in mind when speaking the poem was the first.
 
-On the cessation of contact, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]].
+On the cessation of contact, see [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]].
 
 2. The image of craving as a seamstress also appears in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag14-thanissaro]]. [↩︎](#^snp5-2-02-ref) ^snp5-2-02
 

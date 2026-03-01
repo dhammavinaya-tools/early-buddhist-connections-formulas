@@ -61,9 +61,9 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 Note
 
-1. According to the commentaries, “imperturbable” denotes the fourth jhāna and the four formless attainments. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn66-thanissaro]] provides partial support for this interpretation, saying that the first three jhānas are perturbable while the fourth is not, but this sutta does not include the dimension of nothingness under the term—or, apparently, any of the formless attainments higher than that.
+1. According to the commentaries, “imperturbable” denotes the fourth jhāna and the four formless attainments. [[mn66-thanissaro]] provides partial support for this interpretation, saying that the first three jhānas are perturbable while the fourth is not, but this sutta does not include the dimension of nothingness under the term—or, apparently, any of the formless attainments higher than that.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn102-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.55-thanissaro]]; [[ud3.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.14-thanissaro]]
+See also: [[mn66-thanissaro]]; [[mn102-thanissaro]]; [[mn121-thanissaro]]; [[mn140-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.55-thanissaro]]; [[ud3.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

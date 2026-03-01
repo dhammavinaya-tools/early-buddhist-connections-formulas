@@ -184,9 +184,9 @@ vv. 359–375
 
 ### Notes
 
-1. SnA maintains that this sutta took place on the same day as the Mahāsamaya Sutta (The Great Meeting, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn20-thanissaro]]). [↩︎](#^snp2-13-01-ref) ^snp2-13-01
+1. SnA maintains that this sutta took place on the same day as the Mahāsamaya Sutta (The Great Meeting, [[dn20-thanissaro]]). [↩︎](#^snp2-13-01-ref) ^snp2-13-01
 
-2. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]] lists various forms of fortune telling dealing with omens, meteors, dreams, and marks as types of wrong livelihood for a monk. [↩︎](#^snp2-13-02-ref) ^snp2-13-02
+2. [[dn2-thanissaro]] lists various forms of fortune telling dealing with omens, meteors, dreams, and marks as types of wrong livelihood for a monk. [↩︎](#^snp2-13-02-ref) ^snp2-13-02
 
 3. See [[ud5.5-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]: [↩︎](#^snp2-13-03-ref) ^snp2-13-03
 
@@ -198,7 +198,7 @@ So open up what’s covered up,
 
 so that it won’t get soddened by the rain.
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.173-thanissaro]]. [↩︎](#^snp2-13-04-ref) ^snp2-13-04
+4. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.173-thanissaro]]. [↩︎](#^snp2-13-04-ref) ^snp2-13-04
 
 5. Reading _sabba-saṁyojaniye vītivatto_ with the Thai edition. The Burmese edition reads _sabba-saṁyojanayoga vīticatto,_ “totally released from all yoking to fetters.” [↩︎](#^snp2-13-05-ref) ^snp2-13-05
 

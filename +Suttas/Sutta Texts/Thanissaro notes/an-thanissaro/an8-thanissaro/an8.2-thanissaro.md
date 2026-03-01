@@ -53,7 +53,7 @@ language: "English"
 
 Note
 
-1. According to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn21-thanissaro/sn21.1-thanissaro]], “noble silence” means the second jhāna.
+1. According to [[sn12-21-thanissaro/sn21-thanissaro/sn21.1-thanissaro]], “noble silence” means the second jhāna.
 
 See also: [[sn6.2-thanissaro]]; [[sn45.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.114-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.1-thanissaro]]; [[dhp372-thanissaro]]; [[ud4.1-thanissaro]]
 

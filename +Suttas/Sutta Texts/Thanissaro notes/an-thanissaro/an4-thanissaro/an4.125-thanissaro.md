@@ -33,7 +33,7 @@ language: "English"
 
 2. This sutta, read in conjunction with [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.123-thanissaro]], has given rise to the belief that the development of goodwill as an immeasurable state can lead only to the first jhāna, and that the next two immeasurable states—compassion and empathetic joy—can lead, respectively, only to the second and third jhānas. However, as [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]] shows, all four immeasurable states can lead all the way to the fourth jhāna. The difference between that discourse and this lies in how the person practicing these states relates to them. In that sutta, the person deliberately uses the state as a basis for developing all the jhānas. In this sutta, the person simply enjoys the state and remains in it. [↩︎](#^[[an4-thanissaro]].125note02-ref) ^[[an4-thanissaro]].125note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn97-thanissaro]]; [[sn46.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.178-thanissaro]]
+See also: [[mn97-thanissaro]]; [[sn46.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.178-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

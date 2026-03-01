@@ -233,9 +233,9 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 ## Thag16.4  Raṭṭhapāla
 
-_The verses here fall into three sections, with the first two relating to Raṭṭhapāla’s story as told in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn82-thanissaro]]. In the first, Raṭṭhapāla is addressing his father after the latter had tried to use wealth and Raṭṭhapāla’s former wives to lure Ratthapala into disrobing. In the second section, Raṭṭhapāla is talking to King Koravya, who had asked him why he had ordained when he was still young and healthy, and had suffered no loss of relatives or wealth._
+_The verses here fall into three sections, with the first two relating to Raṭṭhapāla’s story as told in [[mn82-thanissaro]]. In the first, Raṭṭhapāla is addressing his father after the latter had tried to use wealth and Raṭṭhapāla’s former wives to lure Ratthapala into disrobing. In the second section, Raṭṭhapāla is talking to King Koravya, who had asked him why he had ordained when he was still young and healthy, and had suffered no loss of relatives or wealth._
 
-_The third section of verses here does not occur in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn82-thanissaro]]._
+_The third section of verses here does not occur in [[mn82-thanissaro]]._
 
 Look at the image beautified,
 
@@ -553,9 +553,9 @@ of all fetters.
 
 1. This verse = [[dhp147-thanissaro]]. [↩︎](#^thag16-8note01-ref) ^thag16-8note01
 
-2. This verse is not contained in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn82-thanissaro]]. [↩︎](#^thag16-8note02-ref) ^thag16-8note02
+2. This verse is not contained in [[mn82-thanissaro]]. [↩︎](#^thag16-8note02-ref) ^thag16-8note02
 
-3. The verses in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn82-thanissaro]] end here. [↩︎](#^thag16-8note03-ref) ^thag16-8note03
+3. The verses in [[mn82-thanissaro]] end here. [↩︎](#^thag16-8note03-ref) ^thag16-8note03
 
 4. Avajjā. The Burmese and Sinhalese editions of the Pali Canon read avañjhā, or “not barren.” [↩︎](#^thag16-8note04-ref) ^thag16-8note04
 
@@ -677,7 +677,7 @@ the ending of all fetters.
 
 ## Thag16.8  Aṅgulimāla
 
-_Aṅgulumāla’s story is told in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn86-thanissaro]]._
+_Aṅgulumāla’s story is told in [[mn86-thanissaro]]._
 
 Aṅgulimāla:
 
@@ -989,11 +989,11 @@ the heavy load,       laid down.
 
 5. This verse = [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dhp-thanissaro/dhp26-thanissaro]]. [↩︎](#^thag16-8note05-ref) ^thag16-8note05
 
-6. This verse = [[dhp27-thanissaro]]. For a detailed discussion of “intimacy,” see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.3-thanissaro]]. [↩︎](#^thag16-8note06-ref) ^thag16-8note06
+6. This verse = [[dhp27-thanissaro]]. For a detailed discussion of “intimacy,” see [[sn22-34-thanissaro/sn22-thanissaro/sn22.3-thanissaro]]. [↩︎](#^thag16-8note06-ref) ^thag16-8note06
 
 7. “This” apparently refers to the abundant bliss mentioned in the previous verse. [↩︎](#^thag16-8note07-ref) ^thag16-8note07
 
-8. The verses in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn86-thanissaro]] end here. [↩︎](#^thag16-8note08-ref) ^thag16-8note08
+8. The verses in [[mn86-thanissaro]] end here. [↩︎](#^thag16-8note08-ref) ^thag16-8note08
 
 
 ---

@@ -55,7 +55,7 @@ That is what the Blessed One said. Gratified, Pañcakaṅga the carpenter deligh
 
 2. The Pali here is: _no ca_ _sīla-mayo._ According to the Commentary, this means that he does not regard virtue as the consummation of the path. It may also mean that he does not define himself by his virtue. This term is apparently related to the state called _atammayatā,_ or non-fashioning. On this topic, see _The Wings to awakening,_ especially the introduction to section II/B and passage §179. [↩︎](#^mn78note02-ref) ^mn78note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn101-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn113-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn117-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn152-thanissaro]]
+See also: [[mn101-thanissaro]]; [[mn113-thanissaro]]; [[mn117-thanissaro]]; [[mn152-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

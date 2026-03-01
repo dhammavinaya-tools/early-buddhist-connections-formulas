@@ -13,7 +13,8 @@ contribution:
 > ![[Suttas.base#vin-index]]
 
 - [[BU-PJ]] Parajika - Expulsion
-- [[BU-NP ]]Nissaggiya Pacittiya - Relinquish with confession
+- [[BU-SS]] Saṅghādisesa - Rules entailing an initial and subsequent meeting of the Saṅgha
+- [[BU-NP]]Nissaggiya Pacittiya - Relinquish with confession
 - [[BU-PC]] - Pacittiya - Confession
 - [[BU-PD]] Patidesaniya - Acknowledgement
 - [[BU-SK]] Sekhiya - Training

@@ -556,7 +556,7 @@ vv. 35–75
 
 ### Notes
 
-1. Nd II details the various ways in which a Private Buddha can be said to wander alone _(eko)._ Two of the ways have to do with physical seclusion: He goes forth alone and wanders without a companion. The remaining have to do with mental seclusion: He has abandoned craving; is free of passion, aversion, and delusion; and has followed the path going one way only _(ekāyanamagga)._ Interestingly enough, Nd II defines this path, not as just the four establishings of mindfulness (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn22-thanissaro]]) but as all seven sets of dhammas in the Wings to Awakening. [↩︎](#^snp1-3-01-ref) ^snp1-3-01
+1. Nd II details the various ways in which a Private Buddha can be said to wander alone _(eko)._ Two of the ways have to do with physical seclusion: He goes forth alone and wanders without a companion. The remaining have to do with mental seclusion: He has abandoned craving; is free of passion, aversion, and delusion; and has followed the path going one way only _(ekāyanamagga)._ Interestingly enough, Nd II defines this path, not as just the four establishings of mindfulness (see [[dn22-thanissaro]]) but as all seven sets of dhammas in the Wings to Awakening. [↩︎](#^snp1-3-01-ref) ^snp1-3-01
 
 Nd II illustrates its reference to the abandoning of craving as a type of seclusion with this verse from [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti15-thanissaro]]:
 
@@ -600,7 +600,7 @@ and will cross over
 
 the flood.
 
-2. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.191-thanissaro]] lists two fetters: desire and passion. [[an10.13-thanissaro]] lists ten: self-identification views, uncertainty, grasping at habits & practices, sensual desire, ill will, passion for form, passion for what is formless, conceit, restlessness, and ignorance. [↩︎](#^snp1-3-02-ref) ^snp1-3-02
+2. [[sn35-44-thanissaro/sn35-thanissaro/sn35.191-thanissaro]] lists two fetters: desire and passion. [[an10.13-thanissaro]] lists ten: self-identification views, uncertainty, grasping at habits & practices, sensual desire, ill will, passion for form, passion for what is formless, conceit, restlessness, and ignorance. [↩︎](#^snp1-3-02-ref) ^snp1-3-02
 
 3. Hair and beard. [↩︎](#^snp1-3-03-ref) ^snp1-3-03
 
@@ -608,33 +608,33 @@ the flood.
 
 5. “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear… aromas cognizable via the nose… flavors cognizable via the tongue… tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire. But these are not sensuality. They are called strings of sensuality in the discipline of the noble ones.” — _[[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]_ [↩︎](#^snp1-3-05-ref) ^snp1-3-05
 
-6. The temporary release from such things as the hindrances, attained when entering right concentration, or the temporary release from some of the factors of lower states of jhāna, attained when entering higher states of jhāna. This release lasts only as long as the necessary causal factors are still in place. This is apparently the same thing as the occasional release/liberation mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn29-thanissaro]]. See note 2 to that sutta. [↩︎](#^snp1-3-06-ref) ^snp1-3-06
+6. The temporary release from such things as the hindrances, attained when entering right concentration, or the temporary release from some of the factors of lower states of jhāna, attained when entering higher states of jhāna. This release lasts only as long as the necessary causal factors are still in place. This is apparently the same thing as the occasional release/liberation mentioned in [[mn29-thanissaro]]. See note 2 to that sutta. [↩︎](#^snp1-3-06-ref) ^snp1-3-06
 
 7. An epithet for the Buddha. [↩︎](#^snp1-3-07-ref) ^snp1-3-07
 
-8. According to Nd II, the views here are the 20 forms of identity-views (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]) and the 62 views discussed in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn1-thanissaro]]. (The connection between these two lists is discussed in [[sn41.3-thanissaro]].) [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]], however, explains a “contortion of views” in different terms, which may have been intended here. [↩︎](#^snp1-3-08-ref) ^snp1-3-08
+8. According to Nd II, the views here are the 20 forms of identity-views (see [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]) and the 62 views discussed in [[dn1-thanissaro]]. (The connection between these two lists is discussed in [[sn41.3-thanissaro]].) [[mn2-thanissaro]], however, explains a “contortion of views” in different terms, which may have been intended here. [↩︎](#^snp1-3-08-ref) ^snp1-3-08
 
 9. _Visama._ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp1-thanissaro/snp1.12-thanissaro]]. [↩︎](#^snp1-3-09-ref) ^snp1-3-09
 
-10. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn54-thanissaro]]. [↩︎](#^snp1-3-10-ref) ^snp1-3-10
+10. See [[mn54-thanissaro]]. [↩︎](#^snp1-3-10-ref) ^snp1-3-10
 
 11. Reading _gaṇḍo_ with the Thai editions. The other editions have _gaḷo,_ fishhook. See [[an9.15-thanissaro]]. [↩︎](#^snp1-3-11-ref) ^snp1-3-11
 
-12. Nd II explains “not soggy” by quoting Ven. Mahā Moggallāna’s words in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]. The central part of the passage is this: “And how is one soggy? There is the case where a monk, when seeing a form via the eye, is, in the case of pleasing forms, committed to forms and, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness not present, and with limited awareness. And he does not discern, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.] … [↩︎](#^snp1-3-12-ref) ^snp1-3-12
+12. Nd II explains “not soggy” by quoting Ven. Mahā Moggallāna’s words in [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]. The central part of the passage is this: “And how is one soggy? There is the case where a monk, when seeing a form via the eye, is, in the case of pleasing forms, committed to forms and, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness not present, and with limited awareness. And he does not discern, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.] … [↩︎](#^snp1-3-12-ref) ^snp1-3-12
 
 “And how is one not soggy? There is the case where a monk, when seeing a form via the eye, is not, in the case of pleasing forms, committed to forms nor, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness present, and with immeasurable awareness. And he discerns, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.]”
 
 See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.110-thanissaro]].
 
-According to Nd II, “not burning” means not burning with the fires of passion, aversion, and delusion. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti93-thanissaro]].
+According to Nd II, “not burning” means not burning with the fires of passion, aversion, and delusion. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti93-thanissaro]].
 
 13. Lay clothing. [↩︎](#^snp1-3-13-ref) ^snp1-3-13
 
-14. This is a reference to the fourth jhāna. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn119-thanissaro]]. [↩︎](#^snp1-3-14-ref) ^snp1-3-14
+14. This is a reference to the fourth jhāna. See [[mn119-thanissaro]]. [↩︎](#^snp1-3-14-ref) ^snp1-3-14
 
 15. These lines are repeated at [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp1-thanissaro/snp1.12-thanissaro]]. [↩︎](#^snp1-3-15-ref) ^snp1-3-15
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.40-thanissaro]]; [[ud4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti38-thanissaro]]
+See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.40-thanissaro]]; [[ud4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti38-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

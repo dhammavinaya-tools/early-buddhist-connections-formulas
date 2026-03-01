@@ -24,9 +24,9 @@ _It was perhaps because of their complementary strengths and weaknesses that all
 
 _There is the question of when DN 33 was composed. Some people have suggested that all the numerically arranged catechisms—these suttas plus suttas like [Khp 4](../KN/Khp/khp4.html), AN 10:27, and AN 10:28—postdated the Buddha. It’s obvious that the idea of arranging teachings in this way would occur to his disciples only when there was a large body of material to memorize. Even though people of his time were capable of prodigious feats of memory, not everyone had developed that ability, and it would have made sense to organize lists of teachings in a more streamlined format for their sake. However, the need for this format could easily have made itself felt during the latter part of the Buddha’s lifetime. In fact, these catechisms could have been what other suttas were referring to when they mentioned Abhidhamma (Higher Dhamma) or Mātikā (Lists)._
 
-_However, DN 33 raises some special questions in this area. Although the majority of its contents can be traced to other parts of the Canon, it also contains lists that appear nowhere else in the suttas, and some of these lists—such as the threefold classification of form and the three faculties—contain vocabulary found elsewhere in the Canon only in the Abhidhamma Piṭaka. This suggests that, at least in its current incarnation, DN 33 was a later composition. But as to whether it was composed entirely after the Buddha passed away, or if parts were composed earlier, with other parts added later, there’s no way of telling. The sutta could have easily grown over the generations because its organization is so open-ended. The lists included in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn34-thanissaro]] are restricted to those whose members perform a set range of functions, whereas to qualify for inclusion in DN 33, a list would need only to contain a number of members ranging from one to ten._
+_However, DN 33 raises some special questions in this area. Although the majority of its contents can be traced to other parts of the Canon, it also contains lists that appear nowhere else in the suttas, and some of these lists—such as the threefold classification of form and the three faculties—contain vocabulary found elsewhere in the Canon only in the Abhidhamma Piṭaka. This suggests that, at least in its current incarnation, DN 33 was a later composition. But as to whether it was composed entirely after the Buddha passed away, or if parts were composed earlier, with other parts added later, there’s no way of telling. The sutta could have easily grown over the generations because its organization is so open-ended. The lists included in [[dn34-thanissaro]] are restricted to those whose members perform a set range of functions, whereas to qualify for inclusion in DN 33, a list would need only to contain a number of members ranging from one to ten._
 
-_Although the material in this sutta is extremely varied, some specific categories stand out. To begin with, the Wings to Awakening—a list of Dhamma lists attributed to the Buddha himself ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]])—are included almost in their entirety: almost, because one of the 37 factors in the Wings, the strength of conviction, was for some reason omitted, meaning that the five strengths here are reduced to four. All the dhammas listed in the shorter catechisms—[Khp 4](../KN/Khp/khp4.html), AN 10:27, and AN 10:28—are also included. In addition, there are lists and explanations of virtues needed for the practice, contrasted in many cases with their opposing vices, along with some rudimentary instructions on how the Vinaya is to be followed for the sake of unity within the Saṅgha. There are also lists related to the virtues of the Buddha and his noble disciples, possible destinations of rebirth, the basic concepts of dependent co-arising, the various maps of concentration attainments, the noble attainments, and practices conducive to reaching the noble attainments._
+_Although the material in this sutta is extremely varied, some specific categories stand out. To begin with, the Wings to Awakening—a list of Dhamma lists attributed to the Buddha himself ([[dn16-thanissaro]])—are included almost in their entirety: almost, because one of the 37 factors in the Wings, the strength of conviction, was for some reason omitted, meaning that the five strengths here are reduced to four. All the dhammas listed in the shorter catechisms—[Khp 4](../KN/Khp/khp4.html), AN 10:27, and AN 10:28—are also included. In addition, there are lists and explanations of virtues needed for the practice, contrasted in many cases with their opposing vices, along with some rudimentary instructions on how the Vinaya is to be followed for the sake of unity within the Saṅgha. There are also lists related to the virtues of the Buddha and his noble disciples, possible destinations of rebirth, the basic concepts of dependent co-arising, the various maps of concentration attainments, the noble attainments, and practices conducive to reaching the noble attainments._
 
 _So even if this sutta is a later composition, it provides an interesting glimpse of what a group of monastics at a particular time in early Buddhist history saw as the most important of the teachings that a monk should know for his own practice, for the purpose of instructing people at large, and for passing on to succeeding generations._
 
@@ -874,13 +874,13 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.2-thanissaro]]. [↩︎](#^dn33note01-ref) ^dn33note01
+1. See [[sn12-21-thanissaro/sn12-thanissaro/sn12.2-thanissaro]]. [↩︎](#^dn33note01-ref) ^dn33note01
 
 2. Reading _maddava_ with the Thai. The other editions have _lajjava,_ “a sense of conscientiousness.” [↩︎](#^dn33note02-ref) ^dn33note02
 
 3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.5-thanissaro]]. [↩︎](#^dn33note03-ref) ^dn33note03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn41-thanissaro]]. [↩︎](#^dn33note04-ref) ^dn33note04
+4. See [[mn41-thanissaro]]. [↩︎](#^dn33note04-ref) ^dn33note04
 
 5. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti51-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti72-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti73-thanissaro]]. [↩︎](#^dn33note05-ref) ^dn33note05
 
@@ -888,11 +888,11 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 7. This passage shows that the Pali word for craving, _taṇhā,_ does not apply exclusively to unskillful desires. See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.159-thanissaro]]. [↩︎](#^dn33note07-ref) ^dn33note07
 
-8. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn9-thanissaro]]. [↩︎](#^dn33note08-ref) ^dn33note08
+8. See [[mn9-thanissaro]]. [↩︎](#^dn33note08-ref) ^dn33note08
 
 9. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti54-thanissaro]]. [↩︎](#^dn33note09-ref) ^dn33note09
 
-10. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn44-thanissaro]]. [↩︎](#^dn33note10-ref) ^dn33note10
+10. See [[mn44-thanissaro]]. [↩︎](#^dn33note10-ref) ^dn33note10
 
 11. An example of wrongness with a certain result would be any of the five grave deeds listed in [[an5.129-thanissaro]]. An example of rightness with a certain result would be the attainment of stream-entry. [↩︎](#^dn33note11-ref) ^dn33note11
 
@@ -906,9 +906,9 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 16. See [[an3.90-thanissaro]]. [↩︎](#^dn33note16-ref) ^dn33note16
 
-17. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn36-thanissaro]]. [↩︎](#^dn33note17-ref) ^dn33note17
+17. See [[mn36-thanissaro]]. [↩︎](#^dn33note17-ref) ^dn33note17
 
-18. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]]. [↩︎](#^dn33note18-ref) ^dn33note18
+18. See [[mn121-thanissaro]]. [↩︎](#^dn33note18-ref) ^dn33note18
 
 19. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.121-thanissaro]]. [↩︎](#^dn33note19-ref) ^dn33note19
 
@@ -920,35 +920,35 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 23. See [[sn42.11-thanissaro]]. [↩︎](#^dn33note23-ref) ^dn33note23
 
-24. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn4-thanissaro]]. [↩︎](#^dn33note24-ref) ^dn33note24
+24. See [[mn4-thanissaro]]. [↩︎](#^dn33note24-ref) ^dn33note24
 
 25. These dwellings are apparently equivalent to the three “high & great beds” listed in AN 3:64. The divine bed consists of the four jhānas; the brahmā bed, the four immeasureables; and the noble bed, the realization that passion, aversion, and delusion are not present in the mind and are not subject to future arising. [↩︎](#^dn33note25-ref) ^dn33note25
 
-26. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn11-thanissaro]]. [↩︎](#^dn33note26-ref) ^dn33note26
+26. See [[dn11-thanissaro]]. [↩︎](#^dn33note26-ref) ^dn33note26
 
 27. See [[sn51.13-thanissaro]] and [[sn51.20-thanissaro]]. [↩︎](#^dn33note27-ref) ^dn33note27
 
 28. For notes on this section, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]. [↩︎](#^dn33note28-ref) ^dn33note28
 
-29. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]]. [↩︎](#^dn33note29-ref) ^dn33note29
+29. See [[mn2-thanissaro]]. [↩︎](#^dn33note29-ref) ^dn33note29
 
-30. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn22-thanissaro]]. [↩︎](#^dn33note30-ref) ^dn33note30
+30. See [[dn22-thanissaro]]. [↩︎](#^dn33note30-ref) ^dn33note30
 
 31. Reading _pariccheda-ñāṇaṁ_ with the Thai. The Burmese edition has _paricce ñāṇaṁ,_ “knowledge with regard to encompassing (the minds of others)”; the Sri Lankan edition has _pariyāye ñāṇaṁ,_ “knowledge with regard to sequences.” [↩︎](#^dn33note31-ref) ^dn33note31
 
-32. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn28-thanissaro]]. [↩︎](#^dn33note32-ref) ^dn33note32
+32. See [[mn28-thanissaro]]. [↩︎](#^dn33note32-ref) ^dn33note32
 
-33. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^dn33note33-ref) ^dn33note33
+33. See [[sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^dn33note33-ref) ^dn33note33
 
-34. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^dn33note34-ref) ^dn33note34
+34. See [[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^dn33note34-ref) ^dn33note34
 
 35. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.162-thanissaro]]. [↩︎](#^dn33note35-ref) ^dn33note35
 
 36. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.164-thanissaro]]. [↩︎](#^dn33note36-ref) ^dn33note36
 
-37. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn45-thanissaro]]. [↩︎](#^dn33note37-ref) ^dn33note37
+37. See [[mn45-thanissaro]]. [↩︎](#^dn33note37-ref) ^dn33note37
 
-38. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]. [↩︎](#^dn33note38-ref) ^dn33note38
+38. See [[mn140-thanissaro]]. [↩︎](#^dn33note38-ref) ^dn33note38
 
 39. See _._ [↩︎](#^dn33note39-ref) ^dn33note39
 
@@ -956,13 +956,13 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 41. For the eight emancipations, see the section on Eights, below. [↩︎](#^dn33note41-ref) ^dn33note41
 
-42. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn11-thanissaro]]. [↩︎](#^dn33note42-ref) ^dn33note42
+42. See [[mn11-thanissaro]]. [↩︎](#^dn33note42-ref) ^dn33note42
 
-43. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn12-thanissaro]]. [↩︎](#^dn33note43-ref) ^dn33note43
+43. See [[mn12-thanissaro]]. [↩︎](#^dn33note43-ref) ^dn33note43
 
-44. This point apparently is related to the birth of the bodhisatta, who is said to have been alert at all three stages of the descent of the embryo. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn123-thanissaro]]. [↩︎](#^dn33note44-ref) ^dn33note44
+44. This point apparently is related to the birth of the bodhisatta, who is said to have been alert at all three stages of the descent of the embryo. See [[mn123-thanissaro]]. [↩︎](#^dn33note44-ref) ^dn33note44
 
-45. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn51-thanissaro]]. [↩︎](#^dn33note45-ref) ^dn33note45
+45. See [[mn51-thanissaro]]. [↩︎](#^dn33note45-ref) ^dn33note45
 
 46. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.96-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]. [↩︎](#^dn33note46-ref) ^dn33note46
 
@@ -970,7 +970,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 48. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.87-thanissaro]]. [↩︎](#^dn33note48-ref) ^dn33note48
 
-49. On the distinction between aggregates and clinging-aggregates, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.48-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.121-thanissaro]]. [↩︎](#^dn33note49-ref) ^dn33note49
+49. On the distinction between aggregates and clinging-aggregates, see [[sn22-34-thanissaro/sn22-thanissaro/sn22.48-thanissaro]] and [[sn22-34-thanissaro/sn22-thanissaro/sn22.121-thanissaro]]. [↩︎](#^dn33note49-ref) ^dn33note49
 
 50. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.254-thanissaro]]. [↩︎](#^dn33note50-ref) ^dn33note50
 
@@ -982,7 +982,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 54. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn33note54-ref) ^dn33note54
 
-55. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn140-thanissaro]]. [↩︎](#^dn33note55-ref) ^dn33note55
+55. See [[mn140-thanissaro]]. [↩︎](#^dn33note55-ref) ^dn33note55
 
 56. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]. [↩︎](#^dn33note56-ref) ^dn33note56
 
@@ -992,9 +992,9 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 59. See [[sn46.52-thanissaro]]. [↩︎](#^dn33note59-ref) ^dn33note59
 
-60. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn117-thanissaro]]. [↩︎](#^dn33note60-ref) ^dn33note60
+60. See [[mn117-thanissaro]]. [↩︎](#^dn33note60-ref) ^dn33note60
 
-61. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn53-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn33note61-ref) ^dn33note61
+61. See [[mn53-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn33note61-ref) ^dn33note61
 
 62. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.64-thanissaro]]. [↩︎](#^dn33note62-ref) ^dn33note62
 
@@ -1002,7 +1002,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 64. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn33note64-ref) ^dn33note64
 
-65. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn70-thanissaro]]. [↩︎](#^dn33note65-ref) ^dn33note65
+65. See [[mn70-thanissaro]]. [↩︎](#^dn33note65-ref) ^dn33note65
 
 66. See . [↩︎](#^dn33note66-ref) ^dn33note66
 
@@ -1010,13 +1010,13 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 68. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.6-thanissaro]]. [↩︎](#^dn33note68-ref) ^dn33note68
 
-69. Following the Burmese and Sri Lankan editions. The Thai edition reads, _nimmānarati-parisā,_ “a Devas Delighting in Creation assembly,” a reading that does not fit with the more authoritative reading given in all editions of [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]]. [↩︎](#^dn33note69-ref) ^dn33note69
+69. Following the Burmese and Sri Lankan editions. The Thai edition reads, _nimmānarati-parisā,_ “a Devas Delighting in Creation assembly,” a reading that does not fit with the more authoritative reading given in all editions of [[dn16-thanissaro]]. [↩︎](#^dn33note69-ref) ^dn33note69
 
-70. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn44-thanissaro]]. [↩︎](#^dn33note70-ref) ^dn33note70
+70. See [[mn44-thanissaro]]. [↩︎](#^dn33note70-ref) ^dn33note70
 
 71. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.165-thanissaro]]. [↩︎](#^dn33note71-ref) ^dn33note71
 
-72. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn2-thanissaro]]. [↩︎](#^dn33note72-ref) ^dn33note72
+72. See [[mn2-thanissaro]]. [↩︎](#^dn33note72-ref) ^dn33note72
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

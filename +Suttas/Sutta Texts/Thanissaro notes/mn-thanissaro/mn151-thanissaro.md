@@ -17,9 +17,9 @@ language: "English"
 
 ## Introduction
 
-_Although this sutta does not mention the four noble truths by name, it does speak of the four duties appropriate to those truths: comprehending stress, abandoning the origination of stress, realizing the cessation of stress, and developing the path of practice leading to the cessation of stress. In line with the Buddha’s instructions to his son, Rāhula, that the path of practice is one of reflecting repeatedly on one’s own actions ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn61-thanissaro]]), this sutta recommends reflecting repeatedly on the actions of one’s mind to see how far one has come in carrying out these duties. It’s in this way that the practice becomes a skill._
+_Although this sutta does not mention the four noble truths by name, it does speak of the four duties appropriate to those truths: comprehending stress, abandoning the origination of stress, realizing the cessation of stress, and developing the path of practice leading to the cessation of stress. In line with the Buddha’s instructions to his son, Rāhula, that the path of practice is one of reflecting repeatedly on one’s own actions ([[mn61-thanissaro]]), this sutta recommends reflecting repeatedly on the actions of one’s mind to see how far one has come in carrying out these duties. It’s in this way that the practice becomes a skill._
 
-_It’s worth noting that, in line with the theme of repeated reflection, the organization of this sutta parallels that of [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn61-thanissaro]], as does a closely related sutta, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]].]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]].html)_
+_It’s worth noting that, in line with the theme of repeated reflection, the organization of this sutta parallels that of [[mn61-thanissaro]], as does a closely related sutta, [[mn121-thanissaro]].]([[mn121-thanissaro]].html)_
 
 * * *
 
@@ -63,7 +63,7 @@ That is what the Blessed One said. Gratified, Ven. Sāriputta delighted in the B
 
 1. When Moggallāna and Sāriputta were still wanderers, this is what Moggallāna said on first seeing Sāriputta after the latter had acquired the Dhamma eye, the first stage of awakening. See . [↩︎](#^mn151note01-ref) ^mn151note01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]].]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn121-thanissaro]].html) [↩︎](#^mn151note02-ref) ^mn151note02
+2. See [[mn121-thanissaro]].]([[mn121-thanissaro]].html) [↩︎](#^mn151note02-ref) ^mn151note02
 
 3. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]] defines the five strings of sensuality in this way: “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear... aromas cognizable via the nose... flavors cognizable via the tongue... tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire.” It goes on to say, however, that these five strings of sensuality are not the same as sensuality itself, which it defines in these terms: [↩︎](#^mn151note03-ref) ^mn151note03
 
@@ -87,13 +87,13 @@ So, strictly speaking, one doesn’t abandon the five strings of sensuality. Ins
 
 4. “Monks, there are these five hindrances. Which five? Sensual desire as a hindrance, ill will as a hindrance, sloth & drowsiness as a hindrance, restlessness & anxiety as a hindrance, and uncertainty as a hindrance. These are the five hindrances.” — _[[an9.64-thanissaro]]_ [↩︎](#^mn151note04-ref) ^mn151note04
 
-5. “And what are the five clinging-aggregates that, in short, are stressful? The form clinging-aggregate, the feeling clinging-aggregate, the perception clinging-aggregate, the fabrication clinging-aggregate, the consciousness clinging-aggregate.” — _[[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn141-thanissaro]]_ [↩︎](#^mn151note05-ref) ^mn151note05
+5. “And what are the five clinging-aggregates that, in short, are stressful? The form clinging-aggregate, the feeling clinging-aggregate, the perception clinging-aggregate, the fabrication clinging-aggregate, the consciousness clinging-aggregate.” — _[[mn141-thanissaro]]_ [↩︎](#^mn151note05-ref) ^mn151note05
 
 6. The seven sets of teachings beginning with the four establishings of mindfulness and ending with the noble eightfold path are collectively known as the _bodhi-pakkhiya-dhamma,_ the wings to awakening. In ._ [↩︎](#^mn151note06-ref) ^mn151note06
 
 For more detail on the establishings of mindfulness, see ._ For more detail on the bases of power, see ._ For more detail on the five faculties, see ._ For more detail on the factors for awakening, see ._ For more detail on the noble eightfold path, see ._
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn149-thanissaro]]; [[sn48.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.51-thanissaro]]
+See also: [[mn48-thanissaro]]; [[mn149-thanissaro]]; [[sn48.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.51-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -357,7 +357,7 @@ Then, because the Nigaṇṭha Nāṭaputta could not bear the homage paid to th
 
 ### Notes
 
-1. This simile was apparently common among Nigaṇṭhas and their followers. Saccaka, another Nigaṇṭha debater, uses it in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn35-thanissaro]]. [↩︎](#^mn56note01-ref) ^mn56note01
+1. This simile was apparently common among Nigaṇṭhas and their followers. Saccaka, another Nigaṇṭha debater, uses it in [[mn35-thanissaro]]. [↩︎](#^mn56note01-ref) ^mn56note01
 
 2. See [[sn3.24-thanissaro]]. [↩︎](#^mn56note02-ref) ^mn56note02
 
@@ -377,13 +377,13 @@ Then, because the Nigaṇṭha Nāṭaputta could not bear the homage paid to th
 
 10. Reading _padakassa_ with the Thai edition. This term has been borrowed from the Vedic tradition, where it means well versed in the Vedas. Here it means that the Buddha knows many instructive verses. [↩︎](#^mn56note10-ref) ^mn56note10
 
-11. Sakka is the king of the devas of the Thirty-three, a level of heaven that contains many of the old Vedic devas. “Ancient giver” _(purindada)_ is the Pali transformation of the Vedic epithet for Sakka, _puraṁdara,_ “fort-shatterer.” This transformation reflects the more peaceful role that Sakka assumes as a disciple of the Buddha in the Pali Canon (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn21-thanissaro]]). For another instance of this new epithet, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn20-thanissaro]]. [↩︎](#^mn56note11-ref) ^mn56note11
+11. Sakka is the king of the devas of the Thirty-three, a level of heaven that contains many of the old Vedic devas. “Ancient giver” _(purindada)_ is the Pali transformation of the Vedic epithet for Sakka, _puraṁdara,_ “fort-shatterer.” This transformation reflects the more peaceful role that Sakka assumes as a disciple of the Buddha in the Pali Canon (see [[dn21-thanissaro]]). For another instance of this new epithet, see [[dn20-thanissaro]]. [↩︎](#^mn56note11-ref) ^mn56note11
 
 12. _Yakkha._ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.4-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.11-thanissaro]]. [↩︎](#^mn56note12-ref) ^mn56note12
 
 13. This is a pun on the word _vaṇṇa,_ which means both “praise” and “beauty/splendor.” [↩︎](#^mn56note13-ref) ^mn56note13
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn14-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn36-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn101-thanissaro]]; [[sn42.8-thanissaro]]; [[sn42.9-thanissaro]]; [[sn55.23-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.195-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]]
+See also: [[dn29-thanissaro]]; [[mn14-thanissaro]]; [[mn35-thanissaro]]; [[mn36-thanissaro]]; [[mn58-thanissaro]]; [[mn101-thanissaro]]; [[sn42.8-thanissaro]]; [[sn42.9-thanissaro]]; [[sn55.23-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.195-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

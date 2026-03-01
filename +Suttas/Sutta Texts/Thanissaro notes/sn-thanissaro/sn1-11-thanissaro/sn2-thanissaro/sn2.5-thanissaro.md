@@ -42,7 +42,7 @@ of birth & death,
 he doesn’t strain, for he’s gone
 				beyond.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[sn45.171-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an4/an4.5-thanissaro]]
+See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[sn45.171-thanissaro]]; [[Clean Files 3/Thanissaro 2/an-thanissaro-topfolders/an4/an4.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

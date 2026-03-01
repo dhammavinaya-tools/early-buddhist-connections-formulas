@@ -49,7 +49,7 @@ language: "English"
 
 “These are the three roots of what is skillful.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn90-thanissaro]]; [[sn3.5-thanissaro]]; [[sn3.7-thanissaro]]; [[sn3.14-thanissaro]]; [[sn3.25-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.34-thanissaro]]; [[ud2.10-thanissaro]]
+See also: [[mn9-thanissaro]]; [[mn90-thanissaro]]; [[sn3.5-thanissaro]]; [[sn3.7-thanissaro]]; [[sn3.14-thanissaro]]; [[sn3.25-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.34-thanissaro]]; [[ud2.10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

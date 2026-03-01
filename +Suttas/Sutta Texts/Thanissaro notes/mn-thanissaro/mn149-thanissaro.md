@@ -77,11 +77,11 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ### Notes
 
-1. The four establishings of mindfulness, the four right exertions, the four bases of power, the five faculties, the five strengths, the seven factors for awakening, and the noble eightfold path are termed the Wings to awakening _(bodhi-pakkhiya-dhamma)._ [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]] reports that toward the end of his life, the Buddha recommended these qualities as the essence of his teaching. See _The Wings to awakening_ for more details. [↩︎](#^mn149note01-ref) ^mn149note01
+1. The four establishings of mindfulness, the four right exertions, the four bases of power, the five faculties, the five strengths, the seven factors for awakening, and the noble eightfold path are termed the Wings to awakening _(bodhi-pakkhiya-dhamma)._ [[dn16-thanissaro]] reports that toward the end of his life, the Buddha recommended these qualities as the essence of his teaching. See _The Wings to awakening_ for more details. [↩︎](#^mn149note01-ref) ^mn149note01
 
 2. The duties outlined in this section parallel the duties appropriate to the four noble truths, as outlined in the “wheel” of the Buddha’s first sermon. See [[sn56.11-thanissaro]]. [↩︎](#^mn149note02-ref) ^mn149note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/sn-thanissaro/sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]; [[sn38.14-thanissaro]]; [[an2.29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.94-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.170-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]; [[sn38.14-thanissaro]]; [[an2.29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.94-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.170-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

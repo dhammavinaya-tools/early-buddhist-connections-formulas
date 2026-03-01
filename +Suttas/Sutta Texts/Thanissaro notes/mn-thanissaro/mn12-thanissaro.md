@@ -257,29 +257,29 @@ That is what the Blessed One said. Gratified, Ven. Nāgasamala delighted in the 
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn105-thanissaro]].]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn105-thanissaro]].html) [↩︎](#^mn12note01-ref) ^mn12note01
+1. See [[mn105-thanissaro]].]([[mn105-thanissaro]].html) [↩︎](#^mn12note01-ref) ^mn12note01
 
 2. _Mahaggataṁ._ This term is used, together with “immeasurable / unlimited,” in the standard description of the awareness generated in the practice of the brahmavihāras ([[sn42.8-thanissaro]]). According to Ven. Anuruddha in [[mn127-thanissaro]], however, an enlarged mind is not immeasurable. Its range of awareness is larger than the body but still measurable, ranging in distance from the shade of a tree to the earth bounded by the ocean. [↩︎](#^mn12note02-ref) ^mn12note02
 
-3. On the various levels of release, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn43-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. [↩︎](#^mn12note03-ref) ^mn12note03
+3. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. [↩︎](#^mn12note03-ref) ^mn12note03
 
 4. The Dhamma wheel. See [[sn56.11-thanissaro]]. This expression also appears in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]] [↩︎](#^mn12note04-ref) ^mn12note04
 
-5. On the eight emancipations, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn15-thanissaro]] [↩︎](#^mn12note05-ref) ^mn12note05
+5. On the eight emancipations, see [[dn15-thanissaro]] [↩︎](#^mn12note05-ref) ^mn12note05
 
-6. For more on the Buddha’s engagement with the eight assemblies, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn16-thanissaro]] [↩︎](#^mn12note06-ref) ^mn12note06
+6. For more on the Buddha’s engagement with the eight assemblies, see [[dn16-thanissaro]] [↩︎](#^mn12note06-ref) ^mn12note06
 
-7. _Ekāyana magga._ This term also appears in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn10-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn22-thanissaro]], where the four establishings of mindfulness are said to be an _ekāyana magga._ For decades, this term was translated as “the only way,” but more recently—beginning with Ven. Ñāṇamoli—translators have noted that the phrase _ekāyana magga_ appears in this series of similes where it reveals its idiomatic sense. For the similes to work, _ekāyana magga_ requires the sense, not of an only way, but of a way that goes to only one destination. In other words, an _ekāyana magga_ is a path that doesn’t fork—one that, as long as you follow it, takes you to a single, inevitable goal. [↩︎](#^mn12note07-ref) ^mn12note07
+7. _Ekāyana magga._ This term also appears in [[mn10-thanissaro]] and [[dn22-thanissaro]], where the four establishings of mindfulness are said to be an _ekāyana magga._ For decades, this term was translated as “the only way,” but more recently—beginning with Ven. Ñāṇamoli—translators have noted that the phrase _ekāyana magga_ appears in this series of similes where it reveals its idiomatic sense. For the similes to work, _ekāyana magga_ requires the sense, not of an only way, but of a way that goes to only one destination. In other words, an _ekāyana magga_ is a path that doesn’t fork—one that, as long as you follow it, takes you to a single, inevitable goal. [↩︎](#^mn12note07-ref) ^mn12note07
 
-8. This description of the bodhisatta’s extreme emaciation is identical with the description of his extreme emaciation that resulted from engaging in austerities in his last lifetime. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn36-thanissaro]].]([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn36-thanissaro]].html) [↩︎](#^mn12note08-ref) ^mn12note08
+8. This description of the bodhisatta’s extreme emaciation is identical with the description of his extreme emaciation that resulted from engaging in austerities in his last lifetime. See [[mn36-thanissaro]].]([[mn36-thanissaro]].html) [↩︎](#^mn12note08-ref) ^mn12note08
 
-9. This is the teaching of Makkhali Gosāla. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn2-thanissaro]]. [↩︎](#^mn12note09-ref) ^mn12note09
+9. This is the teaching of Makkhali Gosāla. See [[dn2-thanissaro]]. [↩︎](#^mn12note09-ref) ^mn12note09
 
 10. For a discussion of the implications of this passage for an understanding of the establishings of mindfulness, see . [↩︎](#^mn12note10-ref) ^mn12note10
 
 11. See [[ud8.7-thanissaro]]. [↩︎](#^mn12note11-ref) ^mn12note11
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dn-thanissaro/dn1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/mn-thanissaro/mn77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]
+See also: [[dn1-thanissaro]]; [[mn77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).
